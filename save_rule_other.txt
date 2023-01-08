@@ -1,0 +1,707 @@
+10342.sgf/Pair go
+10352.sgf/W wins jigo
+10360.sgf/W wins jigo
+10365.sgf/W wins jigo
+10368.sgf/W wins jigo
+1043.sgf/Ing RUles
+1057.sgf/Ing Rules
+10627.sgf/Ing Goe
+10649.sgf/Ing
+10654.sgf/Ing
+10656.sgf/Ing
+10658.sgf/Ing
+10659.sgf/Ing
+10662.sgf/Ing
+10664.sgf/Ing
+10665.sgf/Ing
+10667.sgf/Ing
+10668.sgf/Ing
+1080.sgf/Ing Rules
+11114.sgf/Pair go
+11115.sgf/Pair go
+11116.sgf/Pair go
+11117.sgf/Pair go
+11118.sgf/Pair go
+11119.sgf/Pair go
+11120.sgf/Pair go
+11122.sgf/Pair go
+11369.sgf/W wins jigo
+11448.sgf/W wins jigo
+11547.sgf/W wins jigo
+11579.sgf/W wins jigo
+11600.sgf/W wins jigo
+11833.sgf/Relay game
+11923.sgf/Uchikomi {B-2}
+11998.sgf/Uchikomi
+12036.sgf/W wins jigo
+12051.sgf/Uchikomi
+12054.sgf/W wins jigo
+12060.sgf/W wins jigo
+12092.sgf/W wins jigo
+12095.sgf/Uchikomi
+12105.sgf/Uchikomi
+12184.sgf/W wins jigo
+12236.sgf/W wins jigo
+12241.sgf/W wins jigo
+12328.sgf/Ing
+12564.sgf/1
+12565.sgf/Ing Goe
+12566.sgf/Ing Goe
+12575.sgf/Ing Goe
+12576.sgf/Ing
+12583.sgf/Ing Goe
+12585.sgf/Ing Goe
+12594.sgf/Ing Goe
+12615.sgf/Ing
+12622.sgf/Ing
+12624.sgf/Ing Goe
+12637.sgf/Ing Goe
+12650.sgf/Ing
+12653.sgf/Ing Goe
+12667.sgf/Ing Goe
+12671.sgf/Ing Goe
+12672.sgf/Ing Goe
+1272.sgf/Ing
+12727.sgf/W wins jigo
+12743.sgf/W wins jigo
+12754.sgf/W wins jigo
+12762.sgf/W wins jigo
+1277.sgf/Ing Goe
+1278.sgf/Ing Goe
+1279.sgf/Ing Goe
+1282.sgf/Ing Goe
+1283.sgf/Ing
+12878.sgf/W gives komi
+12882.sgf/Uchikomi (change on 3)
+12884.sgf/W wins jigo
+12891.sgf/W wins jigo
+13240.sgf/Pair go
+13316.sgf/White wins jigo
+13330.sgf/Uchikomi
+13465.sgf/Uchikomi
+13573.sgf/W gives komi
+13593.sgf/Pair go
+13599.sgf/W wins jigo
+1391.sgf/Ing Goe
+1394.sgf/Ing
+1395.sgf/Ing
+1396.sgf/Ing
+1398.sgf/Ing
+1399.sgf/Ing
+1400.sgf/Ing
+14005.sgf/W gives komi
+1401.sgf/Ing
+1402.sgf/Ing
+1403.sgf/Ing
+1404.sgf/Ing
+1405.sgf/Ing
+14224.sgf/Uchikomi
+14283.sgf/Pair go
+14284.sgf/Pair go
+1430.sgf/Ing Goe
+14304.sgf/W wins jigo
+1456.sgf/Ing Goe
+1459.sgf/Ing Goe
+1460.sgf/Ing Goe
+1462.sgf/Ing Goe
+14628.sgf/Pair go
+1463.sgf/Ing Goe
+1465.sgf/Ing Goe
+1466.sgf/Ing Goe
+1467.sgf/Ing Goe
+1468.sgf/Ing Goe
+1470.sgf/Ing Goe
+1472.sgf/Ing
+1473.sgf/Ing Goe
+1481.sgf/Ing Goe
+15288.sgf/Ing Goe
+15619.sgf/White wins jigo
+15625.sgf/W wins jigo
+15878.sgf/W gives komi
+15894.sgf/Relay go {by B}
+15896.sgf/Uchikomi
+16144.sgf/Pair go
+16147.sgf/Pair go
+16148.sgf/Pair go
+16423.sgf/White gives komi
+16818.sgf/White gives komi
+16852.sgf/Uchikomi
+17390.sgf/Pair go
+17391.sgf/Pair go
+17392.sgf/Pair Go
+1763.sgf/Ing Goe
+17649.sgf/W wins jigo
+17680.sgf/W wins jigo
+17807.sgf/W gives komi
+17903.sgf/W wins jigo
+17960.sgf/Ing Rules
+17997.sgf/Ing
+18010.sgf/Ing Rules
+18021.sgf/Ing Rules
+18080.sgf/Ing
+1810.sgf/Pair go
+1811.sgf/Pair go
+18128.sgf/Ing Rules
+18136.sgf/Ing GOE
+18319.sgf/Ing Goe
+18661.sgf/Ing Goe
+1868.sgf/Ing GOE
+18681.sgf/Ing Goe
+18868.sgf/Ing Goe
+19007.sgf/Ing
+19008.sgf/Ing
+19010.sgf/Ing Goe
+19011.sgf/Ing
+19013.sgf/Ing Goe
+19014.sgf/Ing Goe
+19017.sgf/Ing Goe
+19018.sgf/Ing Goe
+19019.sgf/Ing
+19020.sgf/Ing
+19021.sgf/Ing Goe
+19023.sgf/Ing
+19024.sgf/Ing
+19025.sgf/Ing Goe
+19026.sgf/Ing
+19027.sgf/Ing
+19028.sgf/Ing Goe
+19063.sgf/Ing
+19068.sgf/Ing
+19420.sgf/Ing Goe
+19454.sgf/Ing Rules
+19528.sgf/Pair Go
+19920.sgf/Ing Goe
+20022.sgf/Ing
+20138.sgf/W wins jigo
+20233.sgf/Pair go
+20241.sgf/Pair go
+20242.sgf/Pair go
+20320.sgf/Ing Goe
+20350.sgf/Ing Goe
+20361.sgf/Ing Goe
+20371.sgf/Ing Goe
+20516.sgf/W wins jigo
+20673.sgf/W wins jigo
+20676.sgf/W wins jigo
+20695.sgf/W wins jigo
+2099.sgf/Ing Goe
+21060.sgf/W gives komi
+21282.sgf/Uchikomi
+21283.sgf/Uchikomi
+21291.sgf/Uchikomi
+21292.sgf/Uchikomi
+21747.sgf/Pair Go
+21757.sgf/Uchikomi
+21758.sgf/Uchikomi
+21849.sgf/Ing Goe
+22067.sgf/Pair go
+22256.sgf/n
+22283.sgf/Ing Rules
+22284.sgf/Free placement, White gives komi
+22341.sgf/Ing Rules
+22419.sgf/Ing Goe
+22470.sgf/Ing Rules
+2248.sgf/Ing
+2255.sgf/W gives komi
+2276.sgf/Ing Rules
+2288.sgf/Ing Goe
+22915.sgf/Pair go
+22918.sgf/Pair go
+22939.sgf/W wins jigo
+22955.sgf/W wins jigo
+23087.sgf/Pair Go
+23088.sgf/Pair Go
+23089.sgf/Pair Go
+23090.sgf/Pair Go
+23092.sgf/Pair go
+23093.sgf/Pair go
+23168.sgf/Japanse
+23221.sgf/Uchikomi
+23249.sgf/Pair Go
+2332.sgf/W gives komi
+23351.sgf/W wins jigo
+23361.sgf/Ing GOE Rules
+23374.sgf/Ing GOE Rules
+23395.sgf/Ing GOE Rules
+23430.sgf/W wins jigo
+23491.sgf/W wins jigo
+23564.sgf/Ing Rules
+23566.sgf/W gives komi
+23578.sgf/W wins jigo
+23609.sgf/Ing GOE Rules
+23633.sgf/Ing
+23644.sgf/W wins jigo
+23661.sgf/W wins jigo
+2372.sgf/Ing Goe
+23748.sgf/Ing Goe
+23767.sgf/Ing Rules
+23806.sgf/Ing Rules
+23812.sgf/Pair Go
+23950.sgf/Uchikomi
+23980.sgf/Uchikomi
+23981.sgf/Uchikomi
+23984.sgf/Uchikomi
+24329.sgf/Ing
+24330.sgf/Ing Goe
+24331.sgf/Ing
+24332.sgf/Ing
+24336.sgf/Ing Goe
+24340.sgf/Ing Goe
+24341.sgf/Ing
+24344.sgf/Ing
+24346.sgf/Ing Goe
+24348.sgf/Ing
+24349.sgf/Ing Goe
+24350.sgf/Ing
+24351.sgf/Ing
+24352.sgf/Ing
+24353.sgf/Ing Goe
+24356.sgf/Ing
+24357.sgf/Ing Goe
+24359.sgf/Ing
+24394.sgf/Ing
+24676.sgf/Ing
+24885.sgf/Ing Rules
+24893.sgf/W wins jigo
+24956.sgf/Ing Rules
+24995.sgf/W wins jigo
+25064.sgf/Ing Goe
+25082.sgf/W wins jigo
+25086.sgf/Ing Goe
+25177.sgf/W wins jigo
+25223.sgf/W wins jigo
+25224.sgf/W wins jigo
+25245.sgf/Ing Goe
+25278.sgf/W gives komi
+25314.sgf/Ing
+25361.sgf/Ing Goe
+25436.sgf/Ing Goe
+25442.sgf/Ing
+25446.sgf/Uchikomi
+25447.sgf/Uchikomi
+25458.sgf/Ing
+25464.sgf/Uchikomi
+25482.sgf/Ing Goe
+25492.sgf/Uchikomi
+25493.sgf/Uchikomi
+25497.sgf/Ing Goe
+2552.sgf/Ing
+25534.sgf/Uchikomi
+25546.sgf/Ing Goe
+25547.sgf/Ing Goe
+25639.sgf/W gives komi
+2577.sgf/Uchikomi
+25983.sgf/W wins jigo
+26097.sgf/Uchikomi
+26103.sgf/W wins jigo
+26121.sgf/W wins jigo
+26188.sgf/White wins jigo
+26342.sgf/Uchikomi
+26384.sgf/W wins jigo
+26450.sgf/Uchikomi
+26509.sgf/W wins jigo
+2655.sgf/Pair go
+2656.sgf/Pair go
+26738.sgf/Relay game
+26775.sgf/Uchikomi
+26808.sgf/W wins jigo
+26840.sgf/Ing
+26878.sgf/Ing Rules
+26901.sgf/Ing GOE Rules
+26902.sgf/Ing Goe
+26938.sgf/Ing
+26949.sgf/Ing Goe
+26977.sgf/Ing
+27644.sgf/Ing Goe
+27663.sgf/Ing Goe
+27799.sgf/Pair go
+27846.sgf/W wins jigo
+27858.sgf/W wins jigo
+27872.sgf/W wins jigo
+27878.sgf/W wins jigo
+27915.sgf/W wins jigo
+27924.sgf/W wins jigo
+27963.sgf/W wins jigo
+27967.sgf/W wins jigo
+28203.sgf/Ing
+28214.sgf/Ing
+2840.sgf/Ing Goe
+28441.sgf/Relay game
+28490.sgf/W wins jigo
+28500.sgf/W wins jigo
+28527.sgf/W wins jigo
+28541.sgf/W wins jigo
+28546.sgf/W wins jigo
+28552.sgf/W wins jigo
+28573.sgf/W wins jigo
+28574.sgf/W wins jigo
+28575.sgf/W wins jigo
+28579.sgf/W wins jigo
+28608.sgf/W wins jigo
+28646.sgf/Pair go
+28721.sgf/Nigiri
+28748.sgf/Ing Goe
+292.sgf/Ing Goe
+29207.sgf/Uchikomi
+29255.sgf/Uchikomi
+29262.sgf/Uchikomi
+29272.sgf/Uchikomi
+29359.sgf/W wins jigo
+29504.sgf/Relay game
+29756.sgf/W wins jigo
+29902.sgf/W wins jigo
+29961.sgf/W gives komi
+30026.sgf/Pair Go
+30034.sgf/Ing
+30055.sgf/Uchikomi at B-W-B
+30086.sgf/Uchikomi  at (B)-W-B
+30095.sgf/Uchikomi
+30115.sgf/Uchikomi at B-2
+30123.sgf/B-2
+30141.sgf/Uchikomi at B-W-(B)
+30145.sgf/Uchikomi at -2-
+30186.sgf/Uchikomi at B-2
+30339.sgf/Ing
+30421.sgf/Pair Go
+30545.sgf/Pair go
+30546.sgf/Pair go
+30547.sgf/Pair go
+3062.sgf/W gives komi
+3067.sgf/Ing
+30738.sgf/Ing Goe
+30769.sgf/Ing Goe
+30819.sgf/Ing Goe
+31156.sgf/Ing Goe
+31157.sgf/Ing
+31158.sgf/Ing
+3121.sgf/W gives komi
+31758.sgf/W wins jigo
+31825.sgf/W wins jigo
+31838.sgf/W wins jigo
+31861.sgf/W wins jigo
+31955.sgf/White gives komi
+32531.sgf/Ing Goe
+32633.sgf/Ing Goe
+32667.sgf/Ing Goe
+32695.sgf/Ing Rules
+32709.sgf/Ing Goe
+32716.sgf/Ing Goe
+32885.sgf/Ch inese
+32961.sgf/Ing Goe
+32973.sgf/Ing Goe
+32982.sgf/Ing Goe
+32994.sgf/Ing
+32995.sgf/Ing
+32996.sgf/Ing
+32998.sgf/Ing
+33000.sgf/Ing
+33002.sgf/Ing
+33004.sgf/Ing
+33006.sgf/Ing
+33008.sgf/Ing
+33009.sgf/Ing
+33010.sgf/Ing
+33011.sgf/Ing
+33020.sgf/Pair go
+33646.sgf/Pair Go
+33732.sgf/Ing
+3390.sgf/Ing Goe
+33946.sgf/Pair go
+34098.sgf/Ing GOE Rules
+34108.sgf/ING Rules
+34130.sgf/Ing Goe
+34159.sgf/Ing
+34189.sgf/Ing GOE Rules
+34224.sgf/White gives komi
+34313.sgf/Ing Goe
+34471.sgf/Ing GOE Rules
+34478.sgf/Ing
+345.sgf/Pair go
+34543.sgf/Ing GOE Rules
+34589.sgf/Ing Goe
+346.sgf/Pair go
+347.sgf/Pair go
+348.sgf/Pair go
+34836.sgf/Pair go
+349.sgf/Pair go
+35032.sgf/Ing Rules
+3504.sgf/Ing Goe
+35174.sgf/Ing Goe
+35197.sgf/Ing Goe
+35217.sgf/Ing Goe
+35383.sgf/Ing
+35831.sgf/Ing Goe
+36164.sgf/Ing
+36165.sgf/Ing
+36166.sgf/Ing
+36169.sgf/Ing
+36170.sgf/Ing
+36328.sgf/Ing
+36516.sgf/Ing Goe
+36518.sgf/Ing
+36521.sgf/Ing
+36531.sgf/Ing
+36533.sgf/Ing Goe
+36542.sgf/Ing
+36552.sgf/Ing Goe
+36559.sgf/Ing Goe
+36570.sgf/Ing Goe
+36576.sgf/Ing Goe
+36578.sgf/Ing Goe
+36579.sgf/Ing[EV[Ing Cup,  5th
+36580.sgf/Ing
+36581.sgf/Ing
+36584.sgf/Ing
+36587.sgf/Ing Goe
+36588.sgf/Ing
+36595.sgf/Ing Goe
+36599.sgf/Ing Goe
+36608.sgf/Ing
+36609.sgf/Ing
+36610.sgf/Ing
+36613.sgf/Ing
+36614.sgf/Ing
+36625.sgf/Ing
+36626.sgf/Ing
+36627.sgf/Ing
+36629.sgf/Ing
+36630.sgf/Ing
+36631.sgf/Ing
+36632.sgf/Ing
+36633.sgf/Ing
+36635.sgf/Ing
+36636.sgf/Ing
+36660.sgf/Ing
+37231.sgf/３又３／４子          2
+37354.sgf/3又3/4子              2
+37356.sgf/２又３／４子          2
+37357.sgf/2又3/4子              2
+3736.sgf/White gives komi
+37384.sgf/２又３／４子          1
+37403.sgf/2又3/4子              2
+3748.sgf/White gives komi
+3753.sgf/White gives komi
+38086.sgf/应氏规则
+38478.sgf/黑先贴4目半
+38636.sgf/3又3/4子              1
+38637.sgf/2又3/4子              1
+38663.sgf/3又3/4子              1
+38793.sgf/３又３／４子          1
+38817.sgf/３又３／４子          1
+38917.sgf/GOE
+3923.sgf/jpn
+39735.sgf/3又3/4子              2
+39765.sgf/3又3/4子              1
+40093.sgf/GOE
+40335.sgf/黑出五目半
+40602.sgf/3又3/4子              2
+40605.sgf/３又３／４子          2
+40606.sgf/3又3/4子              1
+40607.sgf/3又3/4子              2
+40780.sgf/GOE
+40889.sgf/Uchikomi at B-2
+40920.sgf/Uchikomi
+40981.sgf/黑先不贴目
+415.sgf/Pair go
+41566.sgf/GOE
+416.sgf/Pair go
+41605.sgf/3又3/4子              1
+41606.sgf/3又3/4子              2
+41807.sgf/GOE
+42357.sgf/GOE
+42445.sgf/３又３／４子          1
+42453.sgf/2又3/4子              2
+42468.sgf/３又３／４子          1
+42473.sgf/３又３／４子          1
+42478.sgf/3又3/4子              2
+42479.sgf/数子法让先            2
+42482.sgf/2又3/4子              1
+42491.sgf/２又３／４子          2
+42494.sgf/2又3/4子              2
+42495.sgf/3又3/4子              1
+42499.sgf/3又3/4子              1
+425.sgf/Ing Rules
+42500.sgf/2又3/4子              2
+42507.sgf/3又3/4子              1
+42508.sgf/３又３／４子          1
+42519.sgf/3又3/4子              1
+42522.sgf/２又３／４子          1
+42526.sgf/2又3/4子              1
+42530.sgf/２又３／４子          2
+42537.sgf/3又3/4子              2
+42550.sgf/3又3/4子              2
+42555.sgf/2又3/4子              1
+4399.sgf/Ing Rules
+4453.sgf/Ing
+4454.sgf/Ing
+4455.sgf/Ing Goe
+4456.sgf/Ing
+4457.sgf/Ing
+4458.sgf/Ing
+4459.sgf/Ing Goe
+4460.sgf/Ing
+4461.sgf/Ing Goe (B wins jigo)
+4462.sgf/Ing
+4463.sgf/Ing
+4464.sgf/Ing Goe
+4465.sgf/Ing Goe
+4466.sgf/Ing
+4467.sgf/Ing
+4468.sgf/Ing
+4469.sgf/Ing Goe
+4471.sgf/Ing
+4473.sgf/Ing
+4474.sgf/Ing
+4475.sgf/Ing
+4476.sgf/Ing
+4477.sgf/Ing
+4480.sgf/Ing
+4481.sgf/Ing
+4483.sgf/Ing Goe
+4484.sgf/Ing Goe
+4485.sgf/Ing Goe
+4493.sgf/Ing
+4515.sgf/Ing Goe
+460.sgf/Ing Rules
+479.sgf/Ing Goe
+4878.sgf/Ing Goe
+4943.sgf/W wins jigo
+4950.sgf/W wins jigo
+4958.sgf/W wins jigo
+5031.sgf/W wins jigo
+5042.sgf/W wins jigo
+5054.sgf/W wins jigo
+5059.sgf/W wins jigo
+5065.sgf/W wins jigo
+5112.sgf/W wins jigo
+5133.sgf/W wins jigo
+5135.sgf/W wins jigo
+5144.sgf/W wins jigo
+5150.sgf/W wins jigo
+5154.sgf/W wins jigo
+5171.sgf/W wins jigo
+5181.sgf/W wins jigo
+5242.sgf/Uchikomi
+5249.sgf/Uchikomi
+5262.sgf/Uchikomi
+5263.sgf/Uchikomi
+5265.sgf/Uchikomi
+5269.sgf/Uchikomi
+5273.sgf/Uchikomi
+5278.sgf/Uchikomi
+5279.sgf/Uchikomi
+5283.sgf/Uchikomi
+5284.sgf/Uchikomi
+5288.sgf/Uchikomi
+536.sgf/Ing Goe
+5387.sgf/Ing Goe
+5735.sgf/Ing
+5759.sgf/Uchikomi
+5773.sgf/Uchikomi
+5776.sgf/Uchikomi
+5779.sgf/Uchikomi
+5782.sgf/Uchikomi
+5783.sgf/Uchikomi
+5790.sgf/Uchikomi
+5815.sgf/Uchikomi
+5828.sgf/Uchikomi
+583.sgf/Ing GOE
+5831.sgf/Uchikomi
+5839.sgf/W gives komi
+5844.sgf/Uchikomi
+5849.sgf/Uchikomi
+5858.sgf/Uchikomi
+5867.sgf/Uchikomi
+5881.sgf/Japan
+5886.sgf/Uchikomi
+5891.sgf/Uchikomi
+5899.sgf/Uchikomi
+5912.sgf/Uchikomi
+5913.sgf/Uchikomi
+5914.sgf/Uchikomi
+5918.sgf/White gives komi
+5926.sgf/Uchikomi
+5937.sgf/W gives komi
+5941.sgf/Uchikomi
+5944.sgf/Uchikomi
+5945.sgf/Uchikomi
+5961.sgf/Uchikomi
+5981.sgf/Uchikomi
+5982.sgf/Uchikomi
+5983.sgf/Uchikomi
+5997.sgf/Uchikomi
+5999.sgf/W gives komi
+6020.sgf/Uchikomi
+6024.sgf/Uchikomi
+6040.sgf/Uchikomi
+6043.sgf/Uchikomi
+6055.sgf/Uchikomi
+6061.sgf/Uchikomi
+6063.sgf/Uchikomi
+6064.sgf/Uchikomi
+6080.sgf/Uchikomi
+6089.sgf/Uchikomi
+6090.sgf/Uchikomi
+6092.sgf/Uchikomi
+6117.sgf/Uchikomi
+6128.sgf/Uchikomi
+6130.sgf/Uchikomi
+6135.sgf/Uchikomi
+6143.sgf/Uchikomi
+6152.sgf/Uchikomi
+6177.sgf/Uchikomi
+6180.sgf/Uchikomi
+6226.sgf/Ing
+6227.sgf/Ing
+6352.sgf/Ing
+6355.sgf/Ing
+6374.sgf/Ing
+6390.sgf/Ing Goe
+6435.sgf/koran
+6601.sgf/W wins jigo
+664.sgf/Ing GOE Rules
+669.sgf/GOE
+6959.sgf/Pair Go
+7160.sgf/W wins jigo
+7197.sgf/W wins jigo
+7214.sgf/W wins jigo
+7220.sgf/W gives komi
+7245.sgf/W wins jigo
+7331.sgf/Uchikomi
+7335.sgf/Uchikomi
+7454.sgf/Uchikomi
+7522.sgf/Uchikomi
+7574.sgf/Uchikomi
+7601.sgf/Uchikomi
+7611.sgf/Uchikomi
+7671.sgf/Uchikomi
+7672.sgf/Uchikomi
+7694.sgf/W gives komi
+7712.sgf/Uchikomi
+7758.sgf/W gives komi
+7767.sgf/Uchikomi
+7783.sgf/W gives komi
+7798.sgf/Uchikomi
+7809.sgf/Uchikomi
+7866.sgf/Uchikomi
+7980.sgf/Uchikomi
+8014.sgf/Uchikomi
+8040.sgf/Uchikomi
+8271.sgf/Ing Goe
+8318.sgf/ing
+8372.sgf/W gives komi
+842.sgf/Ing Goe
+843.sgf/Ing Goe
+8465.sgf/Pair go
+8596.sgf/W wins jigo
+8615.sgf/W wins jigo
+8669.sgf/W wins jigo
+8689.sgf/W wins jigo
+8698.sgf/Pair Go
+872.sgf/Ing
+8782.sgf/Ing
+903.sgf/Ing Rules
+9146.sgf/Uchikomi
+929.sgf/Ing Rules
+9822.sgf/Relay game
+9824.sgf/Relay game

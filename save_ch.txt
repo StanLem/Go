@@ -1,0 +1,1725 @@
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/1.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10005.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10016.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10020.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10021.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10034.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10040.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10041.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10051.sgfJigo  (moves beyond 219 not known)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10064.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10067.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10093.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10112.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10121.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10123.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10135.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10153.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10166.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10168.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10182.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10184.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10227.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10228.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10252.sgfJigo  (moves beyond 208 not known)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10256.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10290.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10297.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10309.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10314.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10316.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10317.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10321.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10331.sgfjigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10336.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10736.sgfVoid
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/10884.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/1090.sgfdraw
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11124.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11126.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11132.sgfJigo (Moves after 265 not recorded)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11135.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11145.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11151.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11152.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11156.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11158.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11160.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11161.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11163.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11173.sgf?
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11190.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11191.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11201.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11207.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11208.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11233.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11240.sgf共196手以下略,白белый 胜побеждает
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11472.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11833.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11852.sgfVoid
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11871.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11900.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11903.sgfJigo (no further moves known)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11915.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/11929.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12004.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12067.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12077.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12089.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12121.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12123.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12140.sgf?
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12151.sgfJigo {moves after 249 not known}
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12165.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12168.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12175.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12197.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12787.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12799.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12808.sgfJigo {No moves beyond 195 known}
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12812.sgfJigo (Moves after 164 not recorded)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/12828.sgfJigo (moves beyond 195 not known)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/13325.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/13330.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/14224.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/14294.sgfVoid
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/14300.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/14324.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/14628.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/14687.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/14829.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/1530.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/15405.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/15408.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/15491.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/1557.sgfJigo  {Moves beyond 194 not known}
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/15614.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/15617.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/15633.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/15645.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/1568.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/15693.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/15725.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/15737.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/15792.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/15852.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/16990.sgfJigo {moves beyond 218 not known}
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/17027.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/17210.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/17600.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/17601.sgfjigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/17620.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/17637.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/1924.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/2.sgf共200手后略 白белые 胜победили 1目глаз
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/20099.sgf共129手 黑чёрный 中середина 盘доски 胜выигрывает
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/20125.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/20269.sgfVoid (triple ko)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/20352.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/20559.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/20574.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/20593.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/20631.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/20719.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/20891.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21100.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21185.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21187.sgfJigo (moves beyond 184 not known)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21194.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21216.sgfJigo (moves beyond 203 not known)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21234.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21245.sgfJigo (moves beyond 184 not known)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21247.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21256.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21278.sgfJigo (Moves beyond 204 not known)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/2128.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21287.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21412.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21417.sgfJigo (moves beyond 133 not known)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21418.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21422.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21429.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21430.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21445.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21461.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21508.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21594.sgfJigo (Moves after 199 not recorded)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21715.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/21764.sgfJigo {moves beyond 235 not known}
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/22057.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/22164.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/22166.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/22180.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/22466.sgfdraw
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/22807.sgfVoid (triple ko)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23027.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23115.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23159.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23166.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23175.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23183.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23225.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23226.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23270.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23272.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23274.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23280.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23284.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23297.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23322.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/23501.sgfVoid
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/24199.sgf黑черные 棋超时 胜побеждают!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/24572.sgfVoid
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/2487.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/25954.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/26.sgf白белые 胜победили
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/26454.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/26525.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/26632.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/26660.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/26676.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/26679.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/26680.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/26702.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/26707.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/26738.sgfJigo (moves after 127 not recorded)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/26769.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/27046.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/27799.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/28033.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/28062.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/28181.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/28665.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/28698.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/28728.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/28931.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/29137.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/29287.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/29360.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/29504.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/3.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30046.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30069.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30070.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30072.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30080.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30091.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30105.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30128.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30130.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30140.sgfJigo (moves after 183 not recorded)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30147.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30149.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30167.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30190.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30192.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30203.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30429.sgfVoid
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30470.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/30497.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/31052.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/31404.sgfVoid {Triple ko}
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/32088.sgf?
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33064.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33070.sgfJigo {moves beyond 202 not known}
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33074.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33080.sgfJigo {moves beyond 212 not known}
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33083.sgf?
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33087.sgfJigo (Moves after 212 not recorded)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33090.sgf?
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33097.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33104.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33115.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33125.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33140.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33141.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33148.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33157.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33164.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33165.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33187.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33207.sgfJigo (Moves after 232 not recorded)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33212.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33213.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33228.sgfJigo {moves beyond 224 not known}
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33232.sgfJigo (moves beyond 210 not known)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33242.sgfJigo (moves beyond 156 not given)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/33580.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/35.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/35978.sgfJigo (moves beyond 219 not recorded)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36821.sgf黑чёрный 中押 胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36822.sgf白белый 中押 胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36823.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36824.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36840.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36846.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36849.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36850.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36851.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36852.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36853.sgf白胜2目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36854.sgf黑胜6目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36855.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36856.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36857.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36860.sgf不详неизвестно
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36861.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36862.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36863.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36864.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36865.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36866.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36867.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36868.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36869.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36870.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36871.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36872.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36873.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36874.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36875.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36876.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36877.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36878.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36879.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36880.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36881.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36882.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36883.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36884.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36885.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36886.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36887.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36888.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36889.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36890.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36891.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36892.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36893.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36894.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36895.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36896.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36897.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36898.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36899.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36900.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36901.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36902.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36903.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36904.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36905.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36906.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36907.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36908.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36909.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36910.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36911.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36912.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36913.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36914.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36915.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36916.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36917.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36918.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36919.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36920.sgf不詳
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36921.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36933.sgf黑5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36934.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36935.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36936.sgf让2子 黑9目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36937.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36938.sgf让2子 黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36939.sgf白7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36940.sgf黑9目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36941.sgf让2子отступает 黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36942.sgf白2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36943.sgf白2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36944.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36945.sgf让2子 打挂удар
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36946.sgf白15目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36947.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36948.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36949.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36950.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36951.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36952.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36953.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36954.sgf黑5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36955.sgf黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36956.sgf白15目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36957.sgf让2子 黑4目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36958.sgf让2子 黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36959.sgf让2子 黑7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36960.sgf白7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36961.sgf黑9目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36962.sgf白5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36963.sgf黑6目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36964.sgf让2子 黑11目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36965.sgf白12目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36966.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36967.sgf白6目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36968.sgf白2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36969.sgf白6目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36970.sgf白 两(2) 目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36971.sgf白 四(4) 目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36972.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36973.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36974.sgf让2子 和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36975.sgf让2子 黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36976.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36977.sgf让3子 打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36978.sgf黑12目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36979.sgf白2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36980.sgf白4目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36981.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36982.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36983.sgf黑3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36984.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36985.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36986.sgf让二子 白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36987.sgf白五目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36988.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36989.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36990.sgf黑6目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36992.sgf白6目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36993.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36994.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36995.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36996.sgf黑15目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36997.sgf黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36998.sgf让2子 白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/36999.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37000.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37001.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37002.sgf黑5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37003.sgf黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37004.sgf白10目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37005.sgf让2子打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37006.sgf白9目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37007.sgf白10目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37008.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37009.sgf黑8目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37010.sgf黑4目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37011.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37012.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37013.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37014.sgf黑7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37015.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37016.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37017.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37018.sgf让2子 白5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37019.sgf让3子 黑12目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37020.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37021.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37022.sgf白3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37023.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37024.sgf让2子 黑9目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37025.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37026.sgf让2子 黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37027.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37028.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37029.sgf黑胜17目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37030.sgf让2子 黑13目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37031.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37032.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37033.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37034.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37035.sgf白5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37036.sgf白5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37037.sgf让2子 白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37038.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37039.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37040.sgf白3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37041.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37042.sgf黑7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37043.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37044.sgf白10目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37045.sgf让2子 白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37046.sgf白4目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37047.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37048.sgf黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37049.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37050.sgf让2子 和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37051.sgf白11目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37052.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37053.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37054.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37101.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37102.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37103.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37104.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37105.sgf白2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37106.sgf黑胜11目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37113.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37114.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37115.sgf黑胜5子очков半с половиной
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37132.sgf黑胜3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37133.sgf黑胜1又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37142.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37143.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37144.sgf白6目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37145.sgf黑4目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37148.sgf黑胜2目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37153.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37154.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37155.sgf黑5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37156.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37157.sgf黑3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37158.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37159.sgf白4目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37160.sgf黑19目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37161.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37162.sgf白胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37164.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37165.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37174.sgf217白胜0.5子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37176.sgf 218 黑胜 
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37177.sgf 217 白胜0.5子 
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37178.sgf218黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37216.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37217.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37218.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37219.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37220.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37221.sgf白胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37222.sgf黑胜2目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37223.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37224.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37225.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37226.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37227.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37228.sgf白胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37229.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37231.sgf白胜1又1/4子  
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37336.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37344.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37348.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37349.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37354.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37355.sgf白胜6目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37356.sgf黑胜3/4子     
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37357.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37358.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37384.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37388.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37392.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37403.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37439.sgf黑胜1又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37466.sgf白胜1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37468.sgf黑胜2点
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37469.sgf黑胜4又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37470.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37471.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37472.sgf白胜半子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37547.sgf共249手 黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37550.sgf黑胜9目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37551.sgf黑胜2目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37552.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37553.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37554.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37555.sgf黑胜2目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37556.sgf共125手 黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37565.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37566.sgf白胜3目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37567.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37568.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37569.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37570.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37571.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37572.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37573.sgf黑胜7目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37574.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37575.sgf白胜3目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37576.sgf白胜4目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37577.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37578.sgf白胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37579.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37580.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37581.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37582.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37583.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37584.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37585.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37586.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37587.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37588.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37589.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37590.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37591.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37592.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37593.sgf白胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37594.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37595.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37621.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37676.sgf230黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37677.sgf 230 黑胜 
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37679.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37705.sgf黑十一目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37716.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/3772.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37739.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37744.sgf白大胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37747.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37749.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37751.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37753.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37755.sgf共183手 白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37762.sgf共194手后略 黑胜3目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37763.sgf共177手 黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37764.sgf共160手后略 白胜3目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37765.sgf共218手后略 白胜10目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37766.sgf共96手 白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37767.sgf共199手后略 黑胜2目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37769.sgf共200手(以下不明) 白胜10目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37770.sgf共219手 白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37771.sgf共233手 白胜5目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37772.sgf共255手 白胜25目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37774.sgf共238手 白胜4目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37775.sgf共241手 白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37776.sgf共203手 白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37777.sgf共84手封盘
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37778.sgf共252手 黑胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37779.sgf共102手封盘
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37780.sgf共132手 白胜13目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37781.sgf共170着 白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37784.sgf共97手 打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37793.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37847.sgf黑胜6又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37849.sgf白胜1又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37854.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37860.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37861.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37862.sgf白胜二子半.
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37872.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37873.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37882.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37913.sgf白胜三十一子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37917.sgf和
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37920.sgf黑胜一子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37930.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37934.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37937.sgf黑胜半子（白盘面3目）
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37946.sgf黑胜半子（白盘面3目）
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37956.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37967.sgf白胜1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37968.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37984.sgf黑胜半子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37985.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/37986.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38015.sgf白胜1又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38018.sgf白胜1又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38038.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38039.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38040.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38042.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38060.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38061.sgf黑胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38064.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38065.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38066.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38067.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38068.sgf白胜6目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38069.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38070.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38072.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38076.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38078.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38079.sgf黑胜8目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38080.sgf白胜3目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38086.sgf白胜11点 
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38088.sgf白胜4目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38089.sgf白胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38090.sgf白胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38091.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38092.sgf黑胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38093.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38094.sgf白胜5目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38095.sgf白胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38096.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38097.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38098.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38099.sgf白胜3目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/381.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38100.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38101.sgf白胜8目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38102.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38103.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38104.sgf白胜半目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38105.sgf黑胜半目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38106.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38107.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38108.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38109.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38110.sgf白胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38111.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38112.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38113.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38114.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38115.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38116.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38117.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38118.sgf白胜5目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38119.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38120.sgf白胜2目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38121.sgf白胜9目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38122.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38123.sgf白胜半目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38124.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38125.sgf黑胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38126.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38127.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38128.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38129.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38130.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38131.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38132.sgf白胜10目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38133.sgf黑胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38134.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38135.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38136.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38137.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38138.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38139.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38140.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38141.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38142.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38143.sgf白胜3目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38144.sgf黑胜2目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38145.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38146.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38147.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38148.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38149.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38150.sgf白胜3目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38151.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38152.sgf黑胜8目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38153.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38154.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38155.sgf白胜7目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38156.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38157.sgf黑胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38158.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38159.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38160.sgf黑胜半目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38161.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38162.sgf白胜9目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38163.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38164.sgf黑棋中盘胜!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38168.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38169.sgf黑11目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38170.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38171.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38172.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38182.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38208.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38269.sgf对局停止!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38278.sgf白胜1又4分之1
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38279.sgf白胜1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38280.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38281.sgf黑胜3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/3829.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38297.sgf黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38304.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38305.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38306.sgf黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38307.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38308.sgf白7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38309.sgf黑5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38310.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38311.sgf让2子 黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38312.sgf白2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38313.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38314.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38315.sgf让3子 黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38316.sgf白5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38318.sgf让2子 打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38319.sgf黑9目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38320.sgf白8目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38321.sgf黑5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38322.sgf让2子 黑11目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38323.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38324.sgf让2子 黑7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38325.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38326.sgf黑7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38327.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38328.sgf白5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38329.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38330.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38331.sgf白2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38332.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38333.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38334.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38335.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38336.sgf黑5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38337.sgf黑11目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38338.sgf白2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38339.sgf白8目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38340.sgf白一目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38341.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38342.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38343.sgf白9目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38344.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38345.sgf让2子 黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38346.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38347.sgf白4目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38348.sgf黑9目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38349.sgf黑8目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38350.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38351.sgf黑6目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38352.sgf让2子 黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38353.sgf白3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38354.sgf黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38355.sgf黑11目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38356.sgf黑10目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38357.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38358.sgf黑3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38359.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38360.sgf白2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38361.sgf让2子 白7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38362.sgf黑3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38363.sgf白9目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38364.sgf黑3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38365.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38366.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38369.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38371.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38372.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38373.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38376.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38402.sgf白胜1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38413.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38414.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38418.sgf黑胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38421.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38422.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38423.sgf黑九目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38424.sgf黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38425.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38426.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38427.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38428.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38429.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38431.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38432.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38433.sgf黑5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38434.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38435.sgf黑5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38436.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38437.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38438.sgf黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38439.sgf黑2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38441.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38442.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38443.sgf黑5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38444.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38446.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38456.sgfw+0.5
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38459.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38460.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38461.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38475.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38478.sgf黑胜3目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38489.sgf白胜3目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38490.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38491.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38505.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38507.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38508.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38509.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38510.sgf白胜4目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38518.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38527.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38530.sgf白一目勝
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38542.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38579.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38581.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38582.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38586.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38598.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38599.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38600.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38601.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38602.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38603.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38604.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38605.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38606.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38607.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38608.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38609.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38610.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38611.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38612.sgf黑胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38613.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38614.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38615.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38616.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38617.sgf黑胜3目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38618.sgf白胜2目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38619.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38620.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38621.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38622.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38623.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38624.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38626.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38629.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38632.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38633.sgf黑胜3目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38635.sgf黑胜3目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38636.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38637.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38641.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38642.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38643.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38659.sgf白胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38660.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38661.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38662.sgf对局停止!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38663.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38730.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38731.sgf共64手,黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38791.sgf黑胜8子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38793.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38817.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38864.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38865.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38902.sgf217黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38903.sgf 217 黑胜 
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38904.sgf黑胜3又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38912.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38918.sgf黑胜3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38919.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38929.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38932.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38933.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38935.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38936.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38939.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38945.sgf黑胜一子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38948.sgf黑胜一子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38952.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38953.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38956.sgf白胜半子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38958.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38959.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38962.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38964.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38969.sgf白胜四子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38971.sgf白胜一子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/38974.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39.sgf白胜6目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39020.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39025.sgf黑棋中盘胜!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39083.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39093.sgf白先胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39097.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39100.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39111.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39120.sgf白胜7子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39121.sgf白胜四子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39127.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39129.sgf黑胜14子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39156.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39169.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39179.sgf黑胜14子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39188.sgf白胜四子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39190.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39195.sgf黑胜5目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39196.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39197.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39198.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39199.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39200.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39283.sgf黑胜1又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39303.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39318.sgf黑8目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39319.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39322.sgf白3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39325.sgf黑7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39328.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39336.sgf黑8目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39340.sgf白6目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39341.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39348.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39349.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39354.sgf177以下略,黑胜二目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39355.sgf白胜9目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39356.sgf白胜14目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39358.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39360.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39365.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39368.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39373.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39378.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39384.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39386.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39387.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39391.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39402.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39405.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39410.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39413.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39419.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39424.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39427.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39429.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39431.sgf黑胜6目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39432.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39433.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39434.sgf白12目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39436.sgf黑胜13目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39437.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39438.sgf黑胜10目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39439.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39441.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39442.sgf黑胜11目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39444.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39453.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39463.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39467.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39472.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39475.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39516.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39517.sgf黑6目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39518.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39519.sgf黑12目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39520.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39521.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39522.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39523.sgf白3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39524.sgf黑3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39525.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39526.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39527.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39528.sgf白2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39529.sgf白7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39530.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39531.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39532.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39533.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39534.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39535.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39536.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39537.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39538.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39539.sgf白12目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39540.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39541.sgf黑7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39542.sgf黑4目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39543.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39544.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39545.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39546.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39547.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39548.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39549.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39550.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39551.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39552.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39553.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39554.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39555.sgf黑9目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39556.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39557.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39558.sgf黑12目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39559.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39560.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39561.sgf黑4目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39562.sgf白4目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39563.sgf黑7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39564.sgf黑6目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39565.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39566.sgf黑7目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39575.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39576.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39577.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39578.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39579.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39580.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39581.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39582.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39583.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39584.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39585.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39586.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39587.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39588.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39589.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39590.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39591.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39592.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39593.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39594.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39595.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39596.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39597.sgf无胜负
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39598.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39599.sgf不详
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39600.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39601.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39602.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39603.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39604.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39605.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39612.sgf白胜2目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39697.sgf黑棋中盘胜!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39705.sgf黑胜4目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39720.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39723.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39728.sgf白胜1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39729.sgf白胜1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39731.sgf黑不计胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39735.sgf白胜2又1/4子  
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39736.sgf黑胜3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39765.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39777.sgf白胜1又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39816.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39818.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39819.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39863.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39864.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39865.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39866.sgf白胜4目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39867.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39868.sgf白胜5目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39869.sgf白胜4目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39870.sgf黑胜12目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39871.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39872.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39873.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39874.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39875.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39876.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39877.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39878.sgf黑胜9目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39879.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39880.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39881.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39882.sgf白胜7目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39883.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39884.sgf黑胜4目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39885.sgf白胜4目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39886.sgf黑胜3目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39887.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39888.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39889.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39890.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39891.sgf白胜6目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39892.sgf白胜14目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39893.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39894.sgf白胜3目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39895.sgf胜败不明
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39896.sgf白胜2目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39897.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39898.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39899.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39900.sgf白胜4目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39901.sgf黑胜6目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39902.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39903.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39904.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39905.sgf黑胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39906.sgf白胜6目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39907.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39908.sgf黑胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39909.sgf黑胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39910.sgf黑胜2目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39911.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39912.sgf黑胜7目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39913.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39914.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39915.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39916.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39917.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39918.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39919.sgf黑胜7目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39920.sgf黑胜12目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39921.sgf白胜6目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39922.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39923.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39924.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39925.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39926.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39927.sgf白胜7目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39928.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39929.sgf黑胜12目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39930.sgf黑胜8目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39931.sgf白胜5目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39932.sgf白胜7目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39933.sgf白胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39934.sgf白胜4目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39935.sgf白胜7目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39936.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39937.sgf黑胜10目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39938.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39939.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39940.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39941.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39942.sgf黑胜8目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39943.sgf白胜11目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39944.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39945.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39946.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39947.sgf黑胜5目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39948.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39949.sgf白胜9目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39950.sgf黑胜2目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39951.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39952.sgf白胜6目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39953.sgf黑胜5目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39954.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39955.sgf黑胜7目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39956.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39957.sgf黑胜5目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39958.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39959.sgf白3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39960.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39961.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39962.sgf黑11目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39963.sgf黑1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39964.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39965.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39966.sgf黑8目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39967.sgf白4目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39968.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39969.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39970.sgf白3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39971.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39972.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39973.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39974.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39975.sgf黑胜6目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39976.sgf白胜7目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39977.sgf白11目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39978.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/39983.sgf白胜3又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/4.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40086.sgf白胜2又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40089.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40092.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40100.sgf共144手 白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40101.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40102.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40103.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40105.sgf白胜2又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40106.sgf黑胜1又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40111.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40116.sgf黑不计胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40118.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40119.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40120.sgf黑胜7点
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40121.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40122.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40123.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40124.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40125.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40138.sgf白胜1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40151.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40152.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40153.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40154.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40155.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40156.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40157.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40158.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40159.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40160.sgf白1目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40161.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40162.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40174.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40175.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40229.sgf和
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40238.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40239.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40245.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40246.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40250.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40252.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40254.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40257.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40261.sgf白胜半子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40267.sgf白胜四子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40283.sgf白胜五子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40284.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40285.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40287.sgf白先胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40288.sgf黑胜三子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40291.sgf白先胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40295.sgf白胜三子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40297.sgf白先胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40298.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40310.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40316.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40318.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40319.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40321.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40322.sgf黑胜3目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40335.sgf白胜8目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40339.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40342.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40352.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40371.sgf黑5目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40374.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40376.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40445.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40541.sgf黑12目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40545.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40548.sgf黑3目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40550.sgf寛政六年七月三日打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40570.sgf白棋中盘胜!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40571.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40574.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40575.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40576.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40577.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40578.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40579.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40581.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40582.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40583.sgf黑胜3目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40588.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40589.sgf白胜2目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40602.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40603.sgf白胜1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40604.sgf黑胜1又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40605.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40606.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40607.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40778.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40872.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40876.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40886.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40890.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40895.sgf白胜二目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40918.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40919.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40921.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40922.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40923.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40925.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40931.sgf白胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40932.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40943.sgf231白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40947.sgf285黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40951.sgf 285 黑胜 
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40952.sgf 231 白胜 
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40953.sgf共249手,白2目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40963.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40969.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40970.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40981.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40983.sgf白胜2目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40991.sgf黑12目胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/40997.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41.sgf白胜13目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41004.sgf黑胜半子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41008.sgf白先胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41012.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41013.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41014.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41015.sgf白先胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41017.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41019.sgf白胜三子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41023.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41024.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41026.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41033.sgf白先胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41043.sgf白先胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41045.sgf白胜一子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41046.sgf白胜一子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41047.sgf白先胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41052.sgf白胜半子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41053.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41067.sgf白先胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41071.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41077.sgf黑胜一子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41081.sgf白先胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41082.sgf白先胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41111.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41112.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41115.sgf黑胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41118.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41119.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41161.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41190.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41191.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41203.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41205.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41211.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41212.sgf白胜12目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41216.sgf黑胜1又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41219.sgf黑胜1又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41223.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41227.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41240.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41242.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41243.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41246.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41248.sgf黑胜3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41255.sgf白胜5又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41257.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41261.sgf白胜1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41268.sgf黑胜1又1/2子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41271.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41272.sgf白胜4目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41276.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41277.sgf白棋中盘胜!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41283.sgf白胜二子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41287.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41298.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41346.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41352.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41361.sgf黑胜九子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41370.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41377.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41380.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41382.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41387.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41409.sgf白胜十七子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41410.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41418.sgf白胜14子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41419.sgf黑胜二子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41431.sgf白胜六子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41435.sgf黑胜二子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41439.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41446.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41456.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41463.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41470.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41471.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41486.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41490.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41523.sgf白胜1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41547.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41551.sgf黑胜六子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41557.sgf黑胜半子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41559.sgf白棋超时胜!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41560.sgf白棋中盘胜!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41561.sgf白棋中盘胜!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41562.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41567.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41571.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41575.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41576.sgf白胜1目半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41577.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41578.sgf黑棋中盘胜!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41605.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41606.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41607.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41608.sgf224手白胜半子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41609.sgf 224手 白胜半子 
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41610.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41611.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41612.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41639.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41642.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41643.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41648.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41649.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41650.sgf黑胜四子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41651.sgf白胜三子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41652.sgf黑胜四子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41653.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41654.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41655.sgf白胜六子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41656.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41657.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41658.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41669.sgf白胜1又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41670.sgf黑棋5.5目胜! >> 黑方(87):白方(76)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41671.sgf白棋7.5目胜!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41727.sgf白胜2子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41728.sgf黑胜4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41729.sgf白胜半子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41730.sgf白胜1子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41731.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41732.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41733.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41734.sgf白胜8目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41735.sgf白胜1子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41736.sgf黑胜3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41737.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41738.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41739.sgf白胜1又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41740.sgf黑胜1子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41741.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41742.sgf黑胜1子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41821.sgf黑胜4又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41886.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41901.sgf黑胜3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41948.sgf黑胜2又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41958.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41962.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41963.sgf黑胜8目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/41972.sgf黑胜3子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42.sgf143手以下略,黑胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42074.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42075.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42076.sgf黑胜10目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42094.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42105.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42379.sgf黑中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42380.sgf黑胜1又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42392.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42393.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42394.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42439.sgf和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42440.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42445.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42451.sgf黑胜2又1/2子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42453.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42455.sgf白胜6又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42468.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42473.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42478.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42479.sgf黑胜3又1/2子  
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42482.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42485.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42491.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42494.sgf黑胜3/4子     
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42495.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42499.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42500.sgf白胜1又1/4子  
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42507.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42508.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42519.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42522.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42526.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42530.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42537.sgf黑中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42550.sgf白胜1又1/4子  
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42555.sgf白中盘胜      
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42556.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42581.sgf共183着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42582.sgf共168着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42583.sgf共207着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42584.sgf共182着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42585.sgf共206着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42586.sgf共147着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42587.sgf共183着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42588.sgf共207着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42589.sgf共179着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42590.sgf共177着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42591.sgf共180着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42592.sgf共242着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42593.sgf共176着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42594.sgf共212着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42595.sgf共173着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42596.sgf共224着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42597.sgf共146着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42598.sgf共225着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42599.sgf共231着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42600.sgf共239着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42601.sgf共183着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42602.sgf共200着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42603.sgf共164着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42604.sgf共177着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42605.sgf共238着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42606.sgf共146着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42607.sgf共207着,和棋
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42608.sgf共180着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42609.sgf共210着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42610.sgf共240着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42611.sgf共221着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42612.sgf共222着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42613.sgf共207着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42614.sgf共224着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42615.sgf共203着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42616.sgf共143着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42617.sgf共244着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42618.sgf共197着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42619.sgf共204着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42620.sgf共147着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42621.sgf共200着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42622.sgf共203着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42623.sgf共206着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42624.sgf共133着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42625.sgf共179着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42626.sgf共184着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42627.sgf共187着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42628.sgf共178着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42629.sgf共168着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42630.sgf共132着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42631.sgf共206着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42632.sgf共184着
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42633.sgf共182着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42634.sgf共195着,白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42635.sgf共188着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42636.sgf共219着,黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42641.sgf黑棋中盘胜!
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42645.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42647.sgf打挂
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42648.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42660.sgf白胜1又1/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42664.sgf黑胜2又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42673.sgf黑胜2又3/4子
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42683.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42702.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42703.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42711.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42714.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42715.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42719.sgf 195 白胜 
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42721.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42727.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42728.sgf 172 白胜 
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42731.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42741.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42742.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42745.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42746.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42747.sgf172白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42750.sgf?
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42761.sgf白胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42762.sgf黑胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42765.sgf黑胜七子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42779.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/42780.sgf白中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/43.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/4450.sgf黑胜1目
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/4451.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/4487.sgfJigo (moves beyond 135 not known)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/4729.sgf打掛
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/4733.sgf白九目勝
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/49.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/4932.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5.sgf白胜四子半
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5043.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5108.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5208.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5270.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5323.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5604.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5709.sgfVoid (triple ko)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5765.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5821.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5830.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5833.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5858.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5860.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5940.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5943.sgfJ
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5953.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/5982.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6045.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6063.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6075.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6080.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6142.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6158.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6173.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6182.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6184.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6194.sgfJigo (moves after 200 not given)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/666.sgf黑中押胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/667.sgf白超时负
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6670.sgfVoid
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6869.sgfVoid
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6981.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/6985.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7051.sgfVoid
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7075.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7345.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7391.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7405.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7444.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7451.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7493.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7598.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7725.sgfJigo (Moves beyond 220 not recorded)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7752.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7838.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7873.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7953.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7997.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/7999.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8014.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8028.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8096.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8108.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8114.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8162.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8164.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8197.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8217.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8251.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8518.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8534.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8960.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8969.sgfJigo (moves beyond 80 not known)
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8980.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8995.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/8996.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9007.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9014.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9018.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9037.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9040.sgf白中盘胜
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9044.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9053.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9058.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9066.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9071.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9075.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9085.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9096.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9107.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9108.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9135.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9136.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9138.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9150.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9162.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9164.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9167.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9191.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9195.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9224.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9255.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9289.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9297.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9343.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9363.sgfjigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9365.sgfjigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9394.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9442.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9463.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9468.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9478.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9485.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9505.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9510.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9513.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9573.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9688.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9690.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9693.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9707.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9753.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9762.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9771.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9796.sgf0
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9814.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9819.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9830.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9831.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9835.sgf?
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9856.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9860.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9898.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9905.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9913.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9918.sgf?
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9921.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9933.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9960.sgfJigo
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9961.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9968.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9980.sgfLeft unfinished
+C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go/42784progames/9997.sgfLeft unfinished
