@@ -5,7 +5,7 @@ import func
 import ctypes
 
 
-ctypes.windll.user32.SetProcessDPIAware()  # Для отмены эффекта масштабирования
+ctypes.windll.user32.SetProcessDPIAware()  # Для отмены эффекта масштабирования окна
 
 
 if __name__ == '__main__':
