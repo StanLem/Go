@@ -18,6 +18,8 @@ screen_scale = 1300  # Размер экрана
 net_wide = int(screen_scale/(dimension+2))  # Ширина сетки
 border = int(net_wide*1.5)  # Ширина окантовки
 
+save_file = 'save.sgf'
+
 WHITE = (210, 146, 80)
 LIGHT = (250, 250, 250)
 RED = (255, 0, 0)
@@ -27,6 +29,7 @@ BLUE = (0, 0, 255)
 
 # Глобальные переменные
 
+auto_move = False  # Признак автоматического хода
 turn_colour = 'B'  # Кто ходит: B - black, W - white
 x, y = 0, 0  # Координаты курсора
 alive_groups = []  # Неуязвимые группы любого цвета

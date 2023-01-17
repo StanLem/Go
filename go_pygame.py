@@ -13,7 +13,7 @@ if __name__ == '__main__':
     pg.init()
     pg.font.init()
     gl.dame_font = pg.font.SysFont('Comic Sans MS', int(gl.net_wide/2))
-    gl.text_font = pg.font.SysFont('Cascadia Code', gl.net_wide)
+    gl.text_font = pg.font.SysFont('Cascadia Code', int(gl.screen_scale/20))
     gl.influence_font = pg.font.Font("c:/windows/fonts/seguisym.ttf", int(gl.net_wide/2))
     gl.background = pg.image.load('wood.jpg')
     gl.screen = pg.display.set_mode((gl.screen_scale, gl.screen_scale))
@@ -30,7 +30,13 @@ if __name__ == '__main__':
     draw.field()
     pg.image.save(gl.screen, 'temp.jpeg')
     gl.temp_background = pg.image.load('temp.jpeg') # Чтобы курсор отображался
+
+    func.load_party(gl.save_file)
+    draw.all()
+
     pg.display.update()
+
+
 
     while running:
         for event in pg.event.get():

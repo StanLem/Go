@@ -69,6 +69,52 @@ def save_rules(file, game_):
             return False
 
 
+def save_size(file, game_):
+    if file != '':
+        print('Open party', file)
+        file = open(file, 'r', encoding='UTF-8')
+        save_file = open('save_size.txt', 'a', encoding='UTF-8')
+        try:
+            file = file.read()
+        except UnicodeDecodeError:
+            print('UnicodeDecodeError')
+            return False
+        file = file.replace('\n', '')
+        file = file.split(';')
+
+        try:
+            size = file[1].split('SZ[')[1]
+            size = size.split(']')[0]
+            save_file.write(game_ + '/' + size + '\n')
+        except IndexError:
+            return False
+        except ValueError:
+            return False
+
+
+def save_level(file, game_):
+    if file != '':
+        print('Open party', file)
+        file = open(file, 'r', encoding='UTF-8')
+        save_file = open('save_level.txt', 'a', encoding='UTF-8')
+        try:
+            file = file.read()
+        except UnicodeDecodeError:
+            print('UnicodeDecodeError')
+            return False
+        file = file.replace('\n', '')
+        file = file.split(';')
+
+        try:
+            l1 = file[1].split('SZ[')[1]
+            l1 = l1.split(']')[0]
+            save_file.write(game_ + '/' + l1 + '\n')
+        except IndexError:
+            return False
+        except ValueError:
+            return False
+
+
 def chose_dir():
     root = tk.Tk()
     folder = fd.askdirectory(title="Выбрать папку",
@@ -87,7 +133,8 @@ if mypath:
     # enable = True
     for game in onlyfiles:  # text
         # save_chineese(mypath + '/' + game)
-        save_rules(mypath + '/' + game, game)
+        # save_rules(mypath + '/' + game, game)
+        save_size(mypath + '/' + game, game)
     print('data mined')
 else:
     print('data mine canceled')

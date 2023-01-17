@@ -1,3 +1,4 @@
+import time
 import globals as gl
 from copy import deepcopy as copy
 import draw
@@ -545,6 +546,9 @@ def load_party(filename):
         except UnicodeDecodeError:
             print('UnicodeDecodeError')
             return False
+        if len(file) == 0:
+            print('file is empty')
+            return False
         if '[t' in file:
             print('>19 field')
             return False
@@ -559,7 +563,7 @@ def load_party(filename):
         try:
             gl.komi = file[1].split('KM[')[1]
             gl.komi = gl.komi.split(']')[0]
-            gl.komi = float(gl.komi)  # Если не указано коми, то не собираем данные
+            gl.komi = float(gl.komi)  # Если не указано коми, устанавливаем значение по умолчанию
         except IndexError:
             print('komi default')
             gl.komi = 7.5
@@ -569,6 +573,8 @@ def load_party(filename):
         gl.white_score = gl.komi
 
         for word in file:
+            gl.auto_move = True
+
             if word[0] == 'B' or word[0] == 'W':
                 x = gl.SGF_TO_N[word[2]]  # вылет при загрузке первой партии alpha zero 40 vs self (поле 20 на 20)
                 y = gl.SGF_TO_N[word[3]]
@@ -587,10 +593,13 @@ def load_party(filename):
                 move(x, y)
             else:
                 print(filename, word)
+
+        gl.auto_move = False
         return True
     else:
         print('file choose canceled')
         return False
+
 
 
 def load_party_for_mine(filename):
@@ -836,6 +845,8 @@ def move(x, y):
         gl.white_score_list.append(gl.white_score)
         change_colour()
         gl.move_count += 1
+        if not gl.auto_move:
+            save_game()
         return True
     else:
         return False
@@ -974,7 +985,7 @@ def restore_dame(dot):
                 gr[1].append(dot)
 
 
-def rotate(): # Повернуть позицию на 90° по часовой
+def rotate():  # Повернуть позицию на 90° по часовой
     if len(gl.move_list) > 0:
         rotate_field()
         gl.black_groups = rotate_groups(gl.black_groups)
@@ -983,8 +994,8 @@ def rotate(): # Повернуть позицию на 90° по часовой
         gl.white_group_list[gl.move_count - 1] = copy(gl.white_groups)
         gl.field_list[gl.move_count-1] = copy(gl.field)
         rotate_move()
-        change_colour() # Обновление переменных индексов
-        change_colour()
+        change_colour()  # Обновление переменных индексов
+        change_colour()  # Возвращаем назад очередь хода
 
 
 def rotate_field(): # Повернуть позицию на 90° по часовой: (y, n-1-x) -> (x, y)
@@ -1015,6 +1026,23 @@ def rotate_move(): # Повернуть позицию на 90° по часов
         y = gl.move_list[gl.move_count-1][1]
         gl.move_list[gl.move_count-1] = (gl.dimension - 1 - y, x) # TypeError: unsupported operand type(s) for -: 'int' and 'str'
 
+
+def save_game():
+    with open('save.sgf', 'w', encoding='UTF-8') as f:
+        f.write('(;PB[player1]\nPW[player2]\nKM['+str(gl.komi)+']\nDT['+time.strftime('%Y-%m-%d')+']\nRU['+gl.rules+']\n')
+        color = 'B'
+        for move in gl.move_list:
+            x = move[0]
+            y = move[1]
+            if move == 'pass':
+                if color == 'B':
+                    color = 'W'
+                else:
+                    color = 'B'
+            else:
+                move_str = ';'+ color +'['+ gl.N_TO_SGF[x] + gl.N_TO_SGF[y] +']'
+                f.write(move_str)
+        f.write(')')
 
 def save_inputs_for_win_ai(field):
 

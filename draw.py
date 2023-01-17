@@ -99,7 +99,7 @@ def dame(color_group):
                                             gl.border - int(3*gl.net_wide/8) + dot[1] * gl.net_wide))
 
 
-def eyes():
+def eyes():  # Рисуем глаза
     for group in (gl.black_group_eyes + gl.white_group_eyes):
         for eye in group[2]:
             # aaellipse(surface, x, y, rx, ry, color)
