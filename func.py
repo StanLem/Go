@@ -1291,7 +1291,7 @@ def validation(x, y):  # Первоначальная валидация (пер
 
     if y != 0:  # Сверху не стенка
         if gl.field[x][y-1] == ' ':
-            return True  # Можно ходить, если у хода есть хотяб ы одно дыхание
+            return True  # Можно ходить, если у хода есть хотя бы одно дыхание
         elif gl.enemy_index[x][y-1] != []:
             if len(gl.enemy_index[x][y-1][1]) == 1:
                 return True # Можно ходить если у противника одно дыхание
@@ -1300,7 +1300,7 @@ def validation(x, y):  # Первоначальная валидация (пер
 
     if y != gl.dimension-1: # Снизу не стенка
         if gl.field[x][y+1] == ' ':
-            return True  # Можно ходить, если у хода есть хотяб ы одно дыхание
+            return True  # Можно ходить, если у хода есть хотя бы одно дыхание
         elif gl.enemy_index[x][y+1] != []:
             if len(gl.enemy_index[x][y+1][1]) == 1:
                 return True # Можно ходить если у противника одно дыхание
@@ -1309,7 +1309,7 @@ def validation(x, y):  # Первоначальная валидация (пер
 
     if x != 0: # Справа не стенка
         if gl.field[x-1][y] == ' ':
-            return True # Можно ходить, если у хода есть хотяб ы одно дыхание
+            return True # Можно ходить, если у хода есть хотя бы одно дыхание
         elif gl.enemy_index[x-1][y] != []:
             if len(gl.enemy_index[x-1][y][1])==1: # IndexError FIXED
                 return True # Можно ходить если у противника одно дыхание
@@ -1318,7 +1318,7 @@ def validation(x, y):  # Первоначальная валидация (пер
 
     if x != gl.dimension-1: # Слева не стенка
         if gl.field[x+1][y] == ' ':
-            return True # Можно ходить, если у хода есть хотяб ы одно дыхание
+            return True # Можно ходить, если у хода есть хотя бы одно дыхание
         elif gl.enemy_index[x+1][y] != []:
             if len(gl.enemy_index[x+1][y][1])==1:
                 return True # Можно ходить если у противника одно дыхание

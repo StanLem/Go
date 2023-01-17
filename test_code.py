@@ -1,6 +1,9 @@
 import datetime
 import time
+import httprequests as req
 
+r = req.get('ya.ru')
+print(r.text)
 
 print('time.time()', time.time())  #
 print('time.gmtime()', time.gmtime())
