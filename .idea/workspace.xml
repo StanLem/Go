@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5bd88c9-4830-4101-b059-7deae398956a" name="Changes" comment="save game feature">
+    <list default="true" id="b5bd88c9-4830-4101-b059-7deae398956a" name="Changes" comment="fixed misspells">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/func.py" beforeDir="false" afterPath="$PROJECT_DIR$/func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/save.sgf" beforeDir="false" afterPath="$PROJECT_DIR$/save.sgf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/temp.jpeg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +56,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Станислав/PycharmProjects/Go_work&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.test_code (1)">
-    <configuration name="go_pygame (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.go_pygame (1)">
+    <configuration name="go_pygame (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GO_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.go_pygame (1)" />
         <item itemvalue="Python.test_code (1)" />
         <item itemvalue="Python.go_pygame" />
         <item itemvalue="Python.test_code" />
         <item itemvalue="Python.go_pygame (4)" />
-        <item itemvalue="Python.go_pygame (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673978069632</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fixed misspells">
+      <created>1673989366320</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673989366320</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,6 +252,7 @@
     <MESSAGE value="add folders with data2" />
     <MESSAGE value="добавил комментарий" />
     <MESSAGE value="save game feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="save game feature" />
+    <MESSAGE value="fixed misspells" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed misspells" />
   </component>
 </project>

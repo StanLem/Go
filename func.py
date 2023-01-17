@@ -1034,14 +1034,10 @@ def save_game():
         for move in gl.move_list:
             x = move[0]
             y = move[1]
-            if move == 'pass':
-                if color == 'B':
-                    color = 'W'
-                else:
-                    color = 'B'
-            else:
+            if move != 'pass':
                 move_str = ';'+ color +'['+ gl.N_TO_SGF[x] + gl.N_TO_SGF[y] +']'
                 f.write(move_str)
+            color = 'B' if color == 'W' else 'W'
         f.write(')')
 
 def save_inputs_for_win_ai(field):
