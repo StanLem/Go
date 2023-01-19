@@ -82,7 +82,7 @@ if __name__ == '__main__':
             elif event.type == pg.KEYDOWN:
 
                 if event.key == pg.K_a:
-                    func.ai_move()
+                    func.ai_move_algo2()
 
                 if event.key == pg.K_e:
                     func.end_game()

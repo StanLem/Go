@@ -9,7 +9,7 @@ SGF_TO_N = {'a': 0, 'b': 1, 'c': 2, 'd': 3, 'e': 4, 'f': 5, 'g': 6, 'h': 7, 'i':
 N_TO_SGF = {0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e', 5: 'f', 6: 'g', 7: 'h', 8: 'i', 9: 'j', 10: 'k', 11: 'l', 12: 'm',
   13: 'n', 14: 'o', 15: 'p', 16: 'q', 17: 'r', 18: 's', 19: 't', 20: 'u', 21: 'v', 22: 'w', 23: 'x', 24: 'y', 25: 'z'}
 
-dimension = 19  # Размер сетки 1x1 - 26x26
+dimension = 9  # Размер сетки 1x1 - 26x26
 '''net_wide = int(60*18/dimension)
 border = int(100*18/dimension)
 screen_scale = (dimension - 1) * net_wide + 2 * border'''

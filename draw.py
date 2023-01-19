@@ -13,6 +13,17 @@ def ai_move(max_ten):
         pg.draw.circle(surface=gl.screen, color=gl.BLUE, radius=radius,
                        center=(gl.border + dot[0] * gl.net_wide, gl.border + dot[1] * gl.net_wide))
 
+def ai_best_ten(score_move):
+    for elem in score_move:
+        score = gl.dame_font.render(str(elem[0]), True, gl.GREEN)
+        dot = elem[1]
+        if elem[0] < 10:
+            gl.screen.blit(score, (gl.border - int(gl.net_wide / 8) + dot[0] * gl.net_wide,
+                                    gl.border - int(3 * gl.net_wide / 8) + dot[1] * gl.net_wide))
+        else:
+            gl.screen.blit(score, (gl.border - int(gl.net_wide/4) + dot[0] * gl.net_wide,
+                                            gl.border - int(3*gl.net_wide/8) + dot[1] * gl.net_wide))
+
 
 def all():
     gl.screen.blit(gl.background, (0, 0))

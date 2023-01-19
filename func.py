@@ -197,6 +197,35 @@ def ai_move_algo():
     draw.all()
 
 
+def ai_move_algo2():
+    ally_color = gl.turn_colour
+    start_score = gl.black_score + gl.black_territory if ally_color == 'B' else gl.white_score + gl.white_territory
+    score_move = []
+    for line in range(0, gl.dimension):
+        for raw in range(0, gl.dimension):
+            dot = (raw, line)
+            if gl.field[raw][line] == ' ':
+                if move(dot[0],dot[1]):
+                    score = gl.black_score + gl.black_territory if ally_color == 'B' else gl.white_score + gl.white_territory
+                    score = int(score - start_score)
+                    if not score_move:
+                        score_move.append([score, dot])
+                    else:
+                        for m in range(0, len(score_move)):
+                            if score > score_move[m][0]:
+                                score_move.insert(m, [score, dot])
+                                if len(score_move) > 10:
+                                    del score_move[-1]
+                                break
+                    backward()
+    draw.ai_best_ten(score_move)
+    '''if move_candidate != 0:
+        move(move_candidate[0], move_candidate[1])
+        draw.all()
+    else:
+        pass_move()'''
+
+
 def backward(): # Отобразить предыдущий ход партии
     if gl.move_count > 1 and gl.move_count <= len(gl.move_list):
         gl.move_count -= 1
@@ -603,15 +632,19 @@ def load_party(filename):
                     move(x, y)
                 else:
                     pass_move()
+                    print(gl.move_count, gl.turn_colour,'pass')
                     move(x, y)
+                print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
             elif word[0] == 'A' and word[1] == 'B':
                 x = gl.SGF_TO_N[word[3]]
                 y = gl.SGF_TO_N[word[4]]
                 move(x, y)
+                print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
                 change_colour()
                 x = gl.SGF_TO_N[word[7]]
                 y = gl.SGF_TO_N[word[8]]
                 move(x, y)
+                print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
             else:
                 print(filename, word)
 

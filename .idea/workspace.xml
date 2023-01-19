@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5bd88c9-4830-4101-b059-7deae398956a" name="Changes" comment="fixed color change when saving">
+    <list default="true" id="b5bd88c9-4830-4101-b059-7deae398956a" name="Changes" comment="added end_game()&#10;fixed count_territory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/draw.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/func.py" beforeDir="false" afterPath="$PROJECT_DIR$/func.py" afterDir="false" />
@@ -254,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673990780010</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added end_game()&#10;fixed count_territory">
+      <created>1674157290202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674157290202</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -264,14 +271,15 @@
     <MESSAGE value="save game feature" />
     <MESSAGE value="fixed misspells" />
     <MESSAGE value="fixed color change when saving" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed color change when saving" />
+    <MESSAGE value="added end_game()&#10;fixed count_territory" />
+    <option name="LAST_COMMIT_MESSAGE" value="added end_game()&#10;fixed count_territory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/func.py</url>
-          <line>244</line>
+          <line>273</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
