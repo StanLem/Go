@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5bd88c9-4830-4101-b059-7deae398956a" name="Changes" comment="fixed misspells">
+    <list default="true" id="b5bd88c9-4830-4101-b059-7deae398956a" name="Changes" comment="fixed color change when saving">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/draw.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/func.py" beforeDir="false" afterPath="$PROJECT_DIR$/func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/globals.py" beforeDir="false" afterPath="$PROJECT_DIR$/globals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go_pygame.py" beforeDir="false" afterPath="$PROJECT_DIR$/go_pygame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/save.sgf" beforeDir="false" afterPath="$PROJECT_DIR$/save.sgf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/temp.jpeg" afterDir="false" />
     </list>
@@ -49,14 +52,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Станислав/PycharmProjects/Go_work&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Станислав/PycharmProjects/Fractal"
   }
-}</component>
-  <component name="RunManager" selected="Python.go_pygame (1)">
+}]]></component>
+  <component name="RunManager" selected="Python.go_pygame (2)">
     <configuration name="go_pygame (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GO_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="go_pygame (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="go_pygame (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GO_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.go_pygame (2)" />
         <item itemvalue="Python.go_pygame (1)" />
         <item itemvalue="Python.test_code (1)" />
         <item itemvalue="Python.go_pygame" />
         <item itemvalue="Python.test_code" />
-        <item itemvalue="Python.go_pygame (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673989366320</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fixed color change when saving">
+      <created>1673990780010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673990780010</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -253,6 +263,18 @@
     <MESSAGE value="добавил комментарий" />
     <MESSAGE value="save game feature" />
     <MESSAGE value="fixed misspells" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed misspells" />
+    <MESSAGE value="fixed color change when saving" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed color change when saving" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/func.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

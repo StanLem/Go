@@ -22,7 +22,7 @@ def all():
     dame(gl.black_groups)
     dame(gl.white_groups)
     eyes()
-    # draw_influence()
+    influence()
     current_move()
     pg.image.save(gl.screen, 'temp.jpeg')
     gl.temp_background = pg.image.load('temp.jpeg') # Чтобы курсор отображался
@@ -144,6 +144,7 @@ def help():
     gl.screen.fill(gl.WHITE)
     font = gl.text_font
     text = ['A - Подсказка от компьютера ai_move',
+            'E - Авто доигрывание',
             'H - Вызов страницы подсказки',
             'L - Загрузка партии',
             'M - Собрать данные для обучения из папки',
@@ -154,7 +155,7 @@ def help():
             'RIGHT - Перейти на ход вперёд в партии',
             'UP - Перейти к началу партии',
             'DOWN - Перейти в конец партии',
-            'SPACE - Пропуск хода']
+            'SPACE - Пропуск хода, пас']
 
     for n in range(0, len(text)):
         line = font.render(text[n], True, gl.BLACK)
@@ -171,30 +172,34 @@ def influence():
                 if vector[0] > 0:
                     color = gl.BLACK
                 else:
-                    color = gl.RED
+                    color = gl.WHITE
                 influence_vector = font.render('⬋', True, color)
-                gl.screen.blit(influence_vector, (gl.border + x * gl.net_wide, gl.border + y * gl.net_wide))
+                gl.screen.blit(influence_vector, (gl.border - int(5*gl.net_wide/16) + x * gl.net_wide,
+                                                  gl.border - int(gl.net_wide/4) + y * gl.net_wide))
             if vector[1] != 0:
                 if vector[1] > 0:
                     color = gl.BLACK
                 else:
-                    color = gl.RED
+                    color = gl.WHITE
                 influence_vector = font.render("⬉", True, color)
-                gl.screen.blit(influence_vector, (gl.border + x * gl.net_wide, gl.border + y * gl.net_wide))
+                gl.screen.blit(influence_vector, (gl.border - int(5*gl.net_wide/16) + x * gl.net_wide,
+                                                  gl.border - int(gl.net_wide/2) + y * gl.net_wide))
             if vector[2] != 0:
                 if vector[2] > 0:
                     color = gl.BLACK
                 else:
-                    color = gl.RED
+                    color = gl.WHITE
                 influence_vector = font.render("⬈", True, color)
-                gl.screen.blit(influence_vector, (gl.border + x * gl.net_wide, gl.border + y * gl.net_wide))
+                gl.screen.blit(influence_vector, (gl.border - int(gl.net_wide/16) + x * gl.net_wide,
+                                                  gl.border - int(gl.net_wide/2) + y * gl.net_wide))
             if vector[3] != 0:
                 if vector[3] > 0:
                     color = gl.BLACK
                 else:
-                    color = gl.RED
+                    color = gl.WHITE
                 influence_vector = font.render('⬊', True, color)
-                gl.screen.blit(influence_vector, (gl.border + x * gl.net_wide, gl.border + y * gl.net_wide))
+                gl.screen.blit(influence_vector, (gl.border - int(gl.net_wide/16) + x * gl.net_wide,
+                                                  gl.border - int(gl.net_wide/4) + y * gl.net_wide))
 
 
 def info():
@@ -208,13 +213,13 @@ def info():
         else:
             info += ' Белые выиграли со счётом: ' + str(abs(gl.total_score))
     else:
-        info += ' Ход Белых' if gl.turn_colour == 'W' else ' Ход Чёрных'
-        info += ' Счёт ' + str(gl.total_score)
         if gl.move_list != [] and gl.move_list[gl.move_count-1] == 'pass': # list index out of range
             if gl.turn_colour == 'B':
                 info += ' Белые Пасуют'
             else:
                 info += ' Чёрные Пасуют'
+        info += ' Ч:' + str(gl.black_score) + '+' + str(gl.black_territory)
+        info += '   Б:' + str(gl.white_score) + '+' + str(gl.white_territory)
 
     info = gl.text_font.render(info, True, gl.BLACK)
     gl.screen.blit(info, (x, y))

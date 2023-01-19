@@ -46,7 +46,7 @@ rules = 'Japanese'
 winner = []  # [цвет победителя, перевес по очкам]
 black_score = 0  # Количество взятых чёрным игроком белых камней
 black_score_list = []
-black_potential = 0  # Количество очков территории под контролем чёрного игрока
+black_territory = 0  # Количество очков территории под контролем чёрного игрока
 white_groups = []  # Группы камней в формате [группа1, 2, ...]
 # где группа1 это [[камень1, 2, ...], [дыхание1, 2, ...], [протоглаз1, 2, ...], [глаз1, 2, ...]
 white_group_list = []
@@ -55,7 +55,7 @@ white_group_eyes_list = []
 white_index = []  # Копия доски со ссылками на белую группу в каждой координате
 white_score = komi
 white_score_list = []
-white_potential = 0
+white_territory = 0
 total_score = black_score - white_score
 ally_groups = black_groups  # Группы цвета текущего хода
 ally_index = black_index  # Индекс
