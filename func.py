@@ -135,7 +135,7 @@ def ai_move():
 def ai_move_algo():
 
     max_score_move = (-1, -1)
-    score = gl.black_score + gl.black_territory if gl.turn_colour == 'B' else gl.white_score + gl.white_territory
+    score = gl.black_score + gl.black_influence if gl.turn_colour == 'B' else gl.white_score + gl.white_influence
     max_score = score
     max_attack_move = (-1, -1)
     enemy_dame = 0
@@ -167,7 +167,7 @@ def ai_move_algo():
             dot = (x, y)
             if gl.field[x][y] == ' ':
                 if move(x, y):
-                    score = gl.black_score + gl.black_territory if gl.turn_colour == 'W' else gl.white_score + gl.white_territory
+                    score = gl.black_score + gl.black_influence if gl.turn_colour == 'W' else gl.white_score + gl.white_influence
                         # W - Так как цвет после хода изменился
                     change_dame = 0
                     for group in gl.ally_groups:
@@ -199,14 +199,14 @@ def ai_move_algo():
 
 def ai_move_algo2():
     ally_color = gl.turn_colour
-    start_score = gl.black_score + gl.black_territory if ally_color == 'B' else gl.white_score + gl.white_territory
+    start_score = gl.black_score + gl.black_influence if ally_color == 'B' else gl.white_score + gl.white_influence
     score_move = []
     for line in range(0, gl.dimension):
         for raw in range(0, gl.dimension):
             dot = (raw, line)
             if gl.field[raw][line] == ' ':
                 if move(dot[0],dot[1]):
-                    score = gl.black_score + gl.black_territory if ally_color == 'B' else gl.white_score + gl.white_territory
+                    score = gl.black_score + gl.black_influence if ally_color == 'B' else gl.white_score + gl.white_influence
                     score = int(score - start_score)
                     if not score_move:
                         score_move.append([score, dot])
@@ -274,39 +274,6 @@ def chose_dir():
                              initialdir="C:/Users/Станислав/PycharmProjects/Fractal/My_Projects/Go")
     root.destroy()
     return folder
-
-
-def count_influence():
-
-    gl.influence = []
-    for n in range(0, gl.dimension):
-        gl.influence.append([])
-        for m in range (0, gl.dimension):
-            gl.influence[n].append([0, 0, 0, 0])
-
-    update_influence(gl.black_groups, 1)
-    update_influence(gl.white_groups, -1)
-
-
-def count_territory():
-
-    gl.black_territory = 0
-    gl.white_territory = 0
-    for x in range(0, gl.dimension):
-        for y in range(0, gl.dimension):
-            sum = gl.influence[x][y][0] + gl.influence[x][y][1] + gl.influence[x][y][2] + gl.influence[x][y][3]
-            if sum > 0:
-                gl.black_territory += 1
-            elif sum < 0:
-                gl.white_territory += 1
-
-
-def count_score():
-
-    count_influence()
-    count_territory()
-    gl.total_score = gl.black_score + gl.black_territory - gl.white_score - gl.white_territory
-    #gl.total_score = gl.black_score - gl.white_score
 
 
 def count_eyes():  # Неуязвимые группы попадают в список gl.alive_groups
@@ -500,6 +467,44 @@ def count_eyes():  # Неуязвимые группы попадают в сп�
             gl.alive_groups.append(group_to_add[0])
 
 
+def count_influence():
+
+    gl.influence = []
+    for n in range(0, gl.dimension):
+        gl.influence.append([])
+        for m in range (0, gl.dimension):
+            gl.influence[n].append([0, 0, 0, 0])
+
+    update_influence(gl.black_groups, 1)
+    update_influence(gl.white_groups, -1)
+
+
+def count_influence_points():
+
+    gl.black_influence = 0
+    gl.white_influence = 0
+    for x in range(0, gl.dimension):
+        for y in range(0, gl.dimension):
+            sum = gl.influence[x][y][0] + gl.influence[x][y][1] + gl.influence[x][y][2] + gl.influence[x][y][3]
+            if sum > 0:
+                gl.black_influence += 1
+            elif sum < 0:
+                gl.white_influence += 1
+
+
+def count_score():
+
+    count_influence()
+    count_influence_points()
+    gl.total_score = gl.black_score + gl.black_influence - gl.white_score - gl.white_influence
+    #gl.total_score = gl.black_score - gl.white_score
+
+
+def count_territory():
+    1==1
+
+
+
 def cut_history_tail():
 
     while gl.move_count < len(gl.move_list):  # Удаление всех ходов с номером > текущего хода
@@ -546,14 +551,14 @@ def del_dame():  # Удаляем лишние дыхания и умершие 
 def end_game():  # Доигрывание (пока не перестанут добавляться очки)
     while not gl.end_game:
         ally_color = gl.turn_colour
-        max_score = gl.black_score + gl.black_territory if ally_color == 'B' else gl.white_score + gl.white_territory
+        max_score = gl.black_score + gl.black_influence if ally_color == 'B' else gl.white_score + gl.white_influence
         move_candidat = 0
         for line in range(0, gl.dimension):
             for raw in range(0, gl.dimension):
                 dot = (raw, line)
                 if gl.field[raw][line] == ' ':
                     if move(dot[0],dot[1]):
-                        score = gl.black_score + gl.black_territory if ally_color == 'B' else gl.white_score + gl.white_territory
+                        score = gl.black_score + gl.black_influence if ally_color == 'B' else gl.white_score + gl.white_influence
                         if score > max_score:
                             max_score = score
                             move_candidat = dot
@@ -890,9 +895,11 @@ def move(x, y):
 
         add_black_groups_list()
         add_white_groups_list()
-        # count_eyes()  # Сильно нагружает проц при загрузке партии
-        gl.black_group_eyes_list.append(copy(gl.black_group_eyes))  # вместо count_eyes
-        gl.white_group_eyes_list.append(copy(gl.white_group_eyes))  # вместо count_eyes
+        if not gl.auto_move:
+            count_eyes()  # Сильно нагружает проц при загрузке партии
+        else:
+            gl.black_group_eyes_list.append(copy(gl.black_group_eyes))  # вместо count_eyes
+            gl.white_group_eyes_list.append(copy(gl.white_group_eyes))  # вместо count_eyes
         gl.alive_group_list.append(copy(gl.alive_groups))
         count_score()
         gl.black_score_list.append(gl.black_score)
@@ -919,7 +926,7 @@ def pass_move():
         set_globals(gl.move_count-1)
 
         if gl.move_list != [] and gl.move_list[-1] == 'pass':
-            count_territory()
+            count_influence_points()
             gl.end_game = True
 
         gl.move_list.append('pass')
@@ -1253,7 +1260,7 @@ def update_influence(groups, increment):
     enemy_index = gl.white_index if increment == 1 else gl.black_index
     for group in groups:
         for dot in set().union(group[0], group[1]):  # Влияние распространяется от точек и от их дыханий
-            if len(group[1]) >= 3:  # Влияние распространяют только сильные группы
+            if len(group[1]) >= 3 or group in gl.alive_groups:  # Влияние распространяют только сильные группы
                 x = dot[0]
                 y = dot[1]
                 while True:  # ⬋

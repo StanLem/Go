@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5bd88c9-4830-4101-b059-7deae398956a" name="Changes" comment="added end_game()&#10;fixed count_territory">
+    <list default="true" id="b5bd88c9-4830-4101-b059-7deae398956a" name="Changes" comment="added show best moves on A button">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/draw.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/func.py" beforeDir="false" afterPath="$PROJECT_DIR$/func.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/globals.py" beforeDir="false" afterPath="$PROJECT_DIR$/globals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go_pygame.py" beforeDir="false" afterPath="$PROJECT_DIR$/go_pygame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/save.sgf" beforeDir="false" afterPath="$PROJECT_DIR$/save.sgf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/temp.jpeg" afterDir="false" />
     </list>
@@ -261,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674157290202</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added show best moves on A button">
+      <created>1674165500295</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674165500295</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -272,7 +278,8 @@
     <MESSAGE value="fixed misspells" />
     <MESSAGE value="fixed color change when saving" />
     <MESSAGE value="added end_game()&#10;fixed count_territory" />
-    <option name="LAST_COMMIT_MESSAGE" value="added end_game()&#10;fixed count_territory" />
+    <MESSAGE value="added show best moves on A button" />
+    <option name="LAST_COMMIT_MESSAGE" value="added show best moves on A button" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

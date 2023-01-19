@@ -229,8 +229,8 @@ def info():
                 info += ' Белые Пасуют'
             else:
                 info += ' Чёрные Пасуют'
-        info += ' Ч:' + str(gl.black_score) + '+' + str(gl.black_territory)
-        info += '   Б:' + str(gl.white_score) + '+' + str(gl.white_territory)
+        info += ' Ч:' + str(gl.black_score) + '+' + str(gl.black_influence)
+        info += '   Б:' + str(gl.white_score) + '+' + str(gl.white_influence)
 
     info = gl.text_font.render(info, True, gl.BLACK)
     gl.screen.blit(info, (x, y))

@@ -9,7 +9,7 @@ SGF_TO_N = {'a': 0, 'b': 1, 'c': 2, 'd': 3, 'e': 4, 'f': 5, 'g': 6, 'h': 7, 'i':
 N_TO_SGF = {0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e', 5: 'f', 6: 'g', 7: 'h', 8: 'i', 9: 'j', 10: 'k', 11: 'l', 12: 'm',
   13: 'n', 14: 'o', 15: 'p', 16: 'q', 17: 'r', 18: 's', 19: 't', 20: 'u', 21: 'v', 22: 'w', 23: 'x', 24: 'y', 25: 'z'}
 
-dimension = 9  # Размер сетки 1x1 - 26x26
+dimension = 7  # Размер сетки 1x1 - 26x26
 '''net_wide = int(60*18/dimension)
 border = int(100*18/dimension)
 screen_scale = (dimension - 1) * net_wide + 2 * border'''
@@ -46,7 +46,7 @@ rules = 'Japanese'
 winner = []  # [цвет победителя, перевес по очкам]
 black_score = 0  # Количество взятых чёрным игроком белых камней
 black_score_list = []
-black_territory = 0  # Количество очков территории под контролем чёрного игрока
+black_influence = 0  # Количество очков влияния под контролем чёрного игрока
 white_groups = []  # Группы камней в формате [группа1, 2, ...]
 # где группа1 это [[камень1, 2, ...], [дыхание1, 2, ...], [протоглаз1, 2, ...], [глаз1, 2, ...]
 white_group_list = []
@@ -55,7 +55,7 @@ white_group_eyes_list = []
 white_index = []  # Копия доски со ссылками на белую группу в каждой координате
 white_score = komi
 white_score_list = []
-white_territory = 0
+white_influence = 0  # Количество очков влияния под контролем белого игрока
 total_score = black_score - white_score
 ally_groups = black_groups  # Группы цвета текущего хода
 ally_index = black_index  # Индекс
