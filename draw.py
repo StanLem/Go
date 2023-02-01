@@ -13,9 +13,20 @@ def ai_move(max_ten):
         pg.draw.circle(surface=gl.screen, color=gl.BLUE, radius=radius,
                        center=(gl.border + dot[0] * gl.net_wide, gl.border + dot[1] * gl.net_wide))
 
-def ai_best_ten(score_move):
+def ai_best_ten_ally(score_move):
     for elem in score_move:
         score = gl.dame_font.render(str(elem[0]), True, gl.GREEN)
+        dot = elem[1]
+        if elem[0] < 10:
+            gl.screen.blit(score, (gl.border - int(gl.net_wide / 8) + dot[0] * gl.net_wide,
+                                    gl.border - int(3 * gl.net_wide / 8) + dot[1] * gl.net_wide))
+        else:
+            gl.screen.blit(score, (gl.border - int(gl.net_wide/4) + dot[0] * gl.net_wide,
+                                            gl.border - int(3*gl.net_wide/8) + dot[1] * gl.net_wide))
+
+def ai_best_ten_foe(score_move):
+    for elem in score_move:
+        score = gl.dame_font.render(str(elem[0]), True, gl.RED)
         dot = elem[1]
         if elem[0] < 10:
             gl.screen.blit(score, (gl.border - int(gl.net_wide / 8) + dot[0] * gl.net_wide,
@@ -33,7 +44,8 @@ def all():
     dame(gl.black_groups)
     dame(gl.white_groups)
     eyes()
-    influence()
+    #influence()
+    territory()
     current_move()
     pg.image.save(gl.screen, 'temp.jpeg')
     gl.temp_background = pg.image.load('temp.jpeg') # Чтобы курсор отображался
@@ -229,8 +241,9 @@ def info():
                 info += ' Белые Пасуют'
             else:
                 info += ' Чёрные Пасуют'
-        info += ' Ч:' + str(gl.black_score) + '+' + str(gl.black_influence)
-        info += '   Б:' + str(gl.white_score) + '+' + str(gl.white_influence)
+        info += ' Ч:' + str(gl.black_score) + '+' + str(gl.black_territory)
+        info += '   Б:' + str(gl.white_score) + '+' + str(gl.white_territory)
+        info += ' Т:' + str(gl.total_score)
 
     info = gl.text_font.render(info, True, gl.BLACK)
     gl.screen.blit(info, (x, y))
@@ -258,6 +271,18 @@ def positions():
                 gfxdraw.filled_circle(gl.screen, gl.border + line * gl.net_wide, gl.border + column * gl.net_wide,
                                       radius, gl.WHITE)
 
+
+def territory():
+    for x in range(gl.dimension):
+        for y in range(gl.dimension):
+            if gl.territory[x][y] == [1, 0]:
+                gfxdraw.box(gl.screen, (gl.border + x * gl.net_wide - gl.net_wide/8,
+                                              gl.border + y * gl.net_wide - gl.net_wide/8,
+                                  gl.net_wide/4, gl.net_wide/4), gl.BLACK)
+            elif gl.territory[x][y] == [0, 1]:
+                gfxdraw.box(gl.screen, (gl.border + x * gl.net_wide - gl.net_wide/8,
+                                              gl.border + y * gl.net_wide - gl.net_wide/8,
+                                  gl.net_wide/4, gl.net_wide/4), gl.WHITE)
 
 def win_prediction():
     1 == 1

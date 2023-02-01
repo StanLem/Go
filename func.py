@@ -198,27 +198,36 @@ def ai_move_algo():
 
 
 def ai_move_algo2():
-    ally_color = gl.turn_colour
-    start_score = gl.black_score + gl.black_influence if ally_color == 'B' else gl.white_score + gl.white_influence
-    score_move = []
-    for line in range(0, gl.dimension):
-        for raw in range(0, gl.dimension):
-            dot = (raw, line)
-            if gl.field[raw][line] == ' ':
-                if move(dot[0],dot[1]):
-                    score = gl.black_score + gl.black_influence if ally_color == 'B' else gl.white_score + gl.white_influence
-                    score = int(score - start_score)
-                    if not score_move:
-                        score_move.append([score, dot])
-                    else:
-                        for m in range(0, len(score_move)):
-                            if score > score_move[m][0]:
-                                score_move.insert(m, [score, dot])
-                                if len(score_move) > 10:
-                                    del score_move[-1]
-                                break
-                    backward()
-    draw.ai_best_ten(score_move)
+    def best_ten():
+        ally_color = gl.turn_colour
+        black_score = gl.black_score + gl.black_territory
+        white_score = gl.white_score + gl.white_territory
+        start_score = gl.total_score if ally_color == 'B' else -gl.total_score
+        score_move = []
+        for line in range(0, gl.dimension):
+            for raw in range(0, gl.dimension):
+                dot = (raw, line)
+                if gl.field[raw][line] == ' ':
+                    if move(dot[0],dot[1]):
+                        score = gl.total_score if ally_color == 'B' else -gl.total_score
+                        score = int(score - start_score)
+                        if not score_move:
+                            score_move.append([score, dot])
+                        else:
+                            for m in range(0, len(score_move)):
+                                if score > score_move[m][0]:
+                                    score_move.insert(m, [score, dot])
+                                    if len(score_move) > 10:
+                                        del score_move[-1]
+                                    break
+                        backward()
+        return score_move
+    score_move = best_ten()  # Лучшие ходы за себя
+    draw.ai_best_ten_ally(score_move)
+    pass_move()
+    score_move = best_ten()  # Лучшие ходы за противника
+    backward()
+    draw.ai_best_ten_foe(score_move)
     '''if move_candidate != 0:
         move(move_candidate[0], move_candidate[1])
         draw.all()
@@ -492,16 +501,79 @@ def count_influence_points():
                 gl.white_influence += 1
 
 
+def count_territory_points():
+
+    gl.black_territory = 0
+    gl.white_territory = 0
+    for x in range(gl.dimension):
+        for y in range(gl.dimension):
+            if gl.territory[x][y] == [1, 0]:
+                gl.black_territory += 1
+            elif gl.territory[x][y] == [0, 1]:
+                gl.white_territory += 1
+
+
 def count_score():
 
-    count_influence()
-    count_influence_points()
-    gl.total_score = gl.black_score + gl.black_influence - gl.white_score - gl.white_influence
-    #gl.total_score = gl.black_score - gl.white_score
+    #count_influence()
+    #count_influence_points()
+    #gl.total_score = gl.black_score + gl.black_influence - gl.white_score - gl.white_influence
+    count_territory()
+    count_territory_points()
+    gl.total_score = gl.black_score - gl.white_score + gl.black_territory - gl.white_territory
 
 
-def count_territory():
-    1==1
+def count_territory():  # Территорией считается пространство отстоящее на 2 линии от камня
+    gl.territory = []
+    for n in range(gl.dimension):
+        gl.territory.append([])
+        for m in range(gl.dimension):
+            gl.territory[n].append([0, 0])
+
+
+    def set_territory(x, delta_x, y, delta_y, ally_color, foe_color):
+        foe_index = gl.black_index if ally_color == 'W' else gl.white_index
+        dx = x + delta_x
+        dy = y + delta_y
+        if x+delta_x >= 0 and y+delta_y >= 0 and x+delta_x < gl.dimension and y+delta_y < gl.dimension:
+            restriction = False
+            if (gl.field[dx][dy] == ' ' \
+                or (gl.field[dx][dy] == foe_color
+                and len(foe_index[dx][dy][1]) == 1)):  # Пустое поле или слабая группа
+                    if gl.field[x+int(delta_x/2)][y] == foe_color and gl.field[x][y+int(delta_y/2)] == foe_color:
+                        # Запрет на распространение между двумя соседями
+                        if len(foe_index[x+int(delta_x/2)][y][1]) > 1 and len(foe_index[x][y+int(delta_y/2)][1]) > 1:
+                            restriction = True
+                    # Упростить условия
+                    if ((gl.field[x+int(delta_x/2)][y+int(delta_y/2)] != foe_color
+                        or (gl.field[x+int(delta_x/2)][y+int(delta_y/2)] == foe_color
+                        and len(foe_index[x+int(delta_x/2)][y+int(delta_y/2)][1]) == 1))\
+                        or (abs(delta_x) == 2 and abs(delta_y) == 2
+                        and (gl.field[x+int(delta_x/2)][y+int(delta_y/2)] != foe_color
+                        or (gl.field[x+int(delta_x/2)][y+int(delta_y/2)] == foe_color
+                        and len(foe_index[x+int(delta_x/2)][y+int(delta_y/2)][1]) == 1))
+                        and (gl.field[x+int(delta_x/2)][dy] != foe_color
+                        or (gl.field[x+int(delta_x/2)][dy] == foe_color
+                        and len(foe_index[x+int(delta_x/2)][dy][1]) == 1))
+                        and (gl.field[dx][y+int(delta_y/2)] != foe_color
+                        or (gl.field[dx][y+int(delta_y/2)] == foe_color
+                        and len(foe_index[dx][y+int(delta_y/2)][1]) == 1))))\
+                        and not restriction:  # Территория прерывается врагами
+                             if ally_color == 'B':
+                                gl.territory[dx][dy][0] = 1
+                             else:
+                                gl.territory[dx][dy][1] = 1
+
+    for x in range(gl.dimension):
+        for y in range(gl.dimension):
+            ally_color = gl.field[x][y]
+            foe_color = 'B' if ally_color == 'W' else 'W'
+            group = gl.black_index[x][y] if ally_color == 'B' else gl.white_index[x][y]
+            if group and len(group[1]) > 1:  # У слабых групп нет территории
+                if ally_color != ' ':
+                    for delta_x in range(-2, 3):
+                        for delta_y in range(-2, 3):
+                            set_territory(x, delta_x, y, delta_y, ally_color, foe_color)
 
 
 
@@ -549,16 +621,17 @@ def del_dame():  # Удаляем лишние дыхания и умершие 
 
 
 def end_game():  # Доигрывание (пока не перестанут добавляться очки)
+    print('start', time.strftime('%H:%M:%S'))
     while not gl.end_game:
         ally_color = gl.turn_colour
-        max_score = gl.black_score + gl.black_influence if ally_color == 'B' else gl.white_score + gl.white_influence
+        max_score = gl.total_score if ally_color == 'B' else -gl.total_score
         move_candidat = 0
         for line in range(0, gl.dimension):
             for raw in range(0, gl.dimension):
                 dot = (raw, line)
                 if gl.field[raw][line] == ' ':
                     if move(dot[0],dot[1]):
-                        score = gl.black_score + gl.black_influence if ally_color == 'B' else gl.white_score + gl.white_influence
+                        score = gl.total_score if ally_color == 'B' else -gl.total_score
                         if score > max_score:
                             max_score = score
                             move_candidat = dot
@@ -568,6 +641,13 @@ def end_game():  # Доигрывание (пока не перестанут д
             draw.all()
         else:
             pass_move()
+    print('end', time.strftime('%H:%M:%S'))
+
+def auto_move():
+    n = 5
+    for i in range(n):
+        print(i)
+
 
 def field_to_tensor(field_):
     tensor_ = []
@@ -612,7 +692,8 @@ def load_party(filename):
             return False
         file = file.replace('\n', '')
         file = file.replace('AB[', ';AB[')  # AB обозначает фору
-        file = file.split(';')
+        file = file.split(')')
+        file = file[0].split(';')
 
         new_game()
         try:
@@ -634,22 +715,23 @@ def load_party(filename):
                 x = gl.SGF_TO_N[word[2]]  # вылет при загрузке первой партии alpha zero 40 vs self (поле 20 на 20)
                 y = gl.SGF_TO_N[word[3]]
                 if word[0] == gl.turn_colour:
+                    print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
                     move(x, y)
                 else:
-                    pass_move()
                     print(gl.move_count, gl.turn_colour,'pass')
+                    pass_move()
+                    print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
                     move(x, y)
-                print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
-            elif word[0] == 'A' and word[1] == 'B':
+            elif word[0] == 'A' and word[1] == 'B':  # Расстановка камней форы
                 x = gl.SGF_TO_N[word[3]]
                 y = gl.SGF_TO_N[word[4]]
-                move(x, y)
                 print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
+                move(x, y)
                 change_colour()
                 x = gl.SGF_TO_N[word[7]]
                 y = gl.SGF_TO_N[word[8]]
-                move(x, y)
                 print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
+                move(x, y)
             else:
                 print(filename, word)
 
@@ -658,7 +740,6 @@ def load_party(filename):
     else:
         print('file choose canceled')
         return False
-
 
 
 def load_party_for_mine(filename):
@@ -680,8 +761,9 @@ def load_party_for_mine(filename):
             print('>19 field')
             return False
         file = file.replace('\n', '')
-        file = file.replace('AB[', ';AB[')
-        file = file.split(';')
+        file = file.replace('AB[', ';AB[')  # Партии с форой
+        file = file.split(')')
+        file = file[0].split(';')
 
         new_game()
         try:  # Выбираем только партии с коми
@@ -897,17 +979,17 @@ def move(x, y):
         add_white_groups_list()
         if not gl.auto_move:
             count_eyes()  # Сильно нагружает проц при загрузке партии
+            count_score()
+            count_territory()
+            save_game()
         else:
             gl.black_group_eyes_list.append(copy(gl.black_group_eyes))  # вместо count_eyes
             gl.white_group_eyes_list.append(copy(gl.white_group_eyes))  # вместо count_eyes
         gl.alive_group_list.append(copy(gl.alive_groups))
-        count_score()
         gl.black_score_list.append(gl.black_score)
         gl.white_score_list.append(gl.white_score)
-        change_colour()
         gl.move_count += 1
-        if not gl.auto_move:
-            save_game()
+        change_colour()
         return True
     else:
         return False
@@ -968,15 +1050,16 @@ def reset_globals():
     gl.white_group_eyes = []
     gl.white_group_eyes_list = []
     gl.white_index = []  # Копия доски со ссылками на группы
+    gl.field = []
+    gl.black_index = []
     for n in range(0, gl.dimension):
+        gl.black_index.append([([])] * gl.dimension)
         gl.white_index.append([([])] * gl.dimension)
+        gl.field.append([(' ')] * gl.dimension)
     gl.black_groups = []
     gl.black_group_list = []
     gl.black_group_eyes = []
     gl.black_group_eyes_list = []
-    gl.black_index = []
-    for n in range(0, gl.dimension):
-        gl.black_index.append([([])] * gl.dimension)
     gl.komi = 6.5
     gl.winner = []
     gl.white_score = gl.komi
@@ -984,18 +1067,17 @@ def reset_globals():
     gl.black_score = 0
     gl.black_score_list = []
     gl.total_score = gl.black_score - gl.white_score
-
-    gl.field = []
-    for n in range(0, gl.dimension):
-        gl.field.append([(' ')] * gl.dimension)
     gl.move_list = []
     gl.move_count = 0
     gl.field_list = []
     gl.influence = []
+    gl.territory = []
     for n in range(0, gl.dimension):
         gl.influence.append([])
+        gl.territory.append([])
         for m in range(0, gl.dimension):
             gl.influence[n].append([0, 0, 0, 0])
+            gl.territory[n].append([0, 0])
     gl.end_game = False
     gl.temp_background = gl.background
     gl.ally_groups = gl.black_groups
@@ -1260,32 +1342,29 @@ def update_influence(groups, increment):
     enemy_index = gl.white_index if increment == 1 else gl.black_index
     for group in groups:
         for dot in set().union(group[0], group[1]):  # Влияние распространяется от точек и от их дыханий
-            if len(group[1]) >= 3 or group in gl.alive_groups:  # Влияние распространяют только сильные группы
+            if len(group[1]) >= 2 or group in gl.alive_groups:  # Влияние распространяют только сильные группы
                 x = dot[0]
                 y = dot[1]
+                # if gl.field[x][y] == ' ':
                 while True:  # ⬋
                     x -= 1
                     y += 1
-                    if x >= 0 and y < gl.dimension:
-                        if gl.field[x][y-1] == enemy_colour and gl.field[x+1][y] == enemy_colour:
-                            if len(enemy_index[x][y-1][1]) >= 1 or len(enemy_index[x+1][y][1]) >= 1:
-                                break  # Не распространяется сквозь камни врага
-                        if gl.field[x][y] != ally_colour:
-                            if gl.field[x][y] == enemy_colour:
-                                if len(enemy_index[x][y][1]) == 1:
-                                    gl.influence[x][y][0] += increment  # Распространяется сквозь слабые группы
+                    if x >= 0 and y < gl.dimension:  # Если нет стенки
+                        if gl.field[x][y-1] == enemy_colour:
+                            if len(enemy_index[x][y-1][1]) > 1:
+                                break  # Не распространяется рядом с сильными камнями врага
+                        if gl.field[x+1][y] == enemy_colour:
+                            if len(enemy_index[x+1][y][1]) > 1:
+                                break  # Не распространяется рядом с сильными камнями врага
+                        if gl.field[x][y] == enemy_colour:
+                            if len(enemy_index[x][y][1]) == 1:
+                                gl.influence[x][y][0] += increment  # Распространяется сквозь слабые группы
                             else:
+                                break
+                        elif gl.field[x][y] == ' ':
                                 gl.influence[x][y][0] += increment  # Идёт по свободным полям
-                            if gl.field[x + 1][y] != ' ' and gl.field[x][y - 1] != ' ':
-                                break  # Блокируется распространение сквозь другие точки
-                            if x - 1 >= 0:
-                                if gl.field[x - 1][y] != ' ':
-                                    break  # Не проходит рядом с другими точками
-                            if y + 1 < gl.dimension:
-                                if gl.field[x][y + 1] != ' ':
-                                    break  # Не проходит рядом с другими точками
-                        else:
-                            break
+                        elif gl.field[x][y] == ally_colour:
+                            break # Не проходит сквозь союзные камни
                     else:
                         break
                 x = dot[0]
@@ -1294,25 +1373,21 @@ def update_influence(groups, increment):
                     x -= 1
                     y -= 1
                     if x >= 0 and y >= 0:
-                        if gl.field[x][y+1] == enemy_colour and gl.field[x+1][y] == enemy_colour:
-                            if len(enemy_index[x][y+1][1]) >= 1 or len(enemy_index[x+1][y][1]) >= 1:
+                        if gl.field[x][y+1] == enemy_colour:
+                            if len(enemy_index[x][y+1][1]) >= 1:
                                 break  # Не распространяется сквозь камни врага
-                        if gl.field[x][y] != ally_colour:
-                            if gl.field[x][y] == enemy_colour:
-                                if len(enemy_index[x][y][1]) == 1:
-                                    gl.influence[x][y][1] += increment
-                            else:
-                                gl.influence[x][y][1] += increment
-                            if gl.field[x + 1][y] != ' ' and gl.field[x][y + 1] != ' ':
+                        if gl.field[x+1][y] == enemy_colour:
+                            if len(enemy_index[x+1][y][1]) >= 1:
                                 break
-                            if x - 1 >= 0:
-                                if gl.field[x - 1][y] != ' ':
-                                    break
-                            if y - 1 >= 0:
-                                if gl.field[x][y - 1] != ' ':
-                                    break  # Не проходит рядом с другими точками
-                        else:
-                            break
+                        if gl.field[x][y] == enemy_colour:
+                            if len(enemy_index[x][y][1]) == 1:
+                                gl.influence[x][y][1] += increment  # Распространяется сквозь слабые группы
+                            else:
+                                break
+                        elif gl.field[x][y] == ' ':
+                                gl.influence[x][y][1] += increment  # Идёт по свободным полям
+                        elif gl.field[x][y] == ally_colour:
+                            break # Не проходит сквозь союзные камни
                     else:
                         break
                 x = dot[0]
@@ -1321,25 +1396,21 @@ def update_influence(groups, increment):
                     x += 1
                     y -= 1
                     if x < gl.dimension and y >= 0:
-                        if gl.field[x][y+1] == enemy_colour and gl.field[x-1][y] == enemy_colour:
-                            if len(enemy_index[x][y+1][1]) >= 1 or len(enemy_index[x-1][y][1]) >= 1:
+                        if gl.field[x][y+1] == enemy_colour:
+                            if len(enemy_index[x][y+1][1]) >= 1:
                                 break  # Не распространяется сквозь камни врага
-                        if gl.field[x][y] != ally_colour:
-                            if gl.field[x][y] == enemy_colour:
-                                if len(enemy_index[x][y][1]) == 1:
-                                    gl.influence[x][y][2] += increment
-                            else:
-                                gl.influence[x][y][2] += increment
-                            if gl.field[x - 1][y] != ' ' and gl.field[x][y + 1] != ' ':
+                        if gl.field[x-1][y] == enemy_colour:
+                            if len(enemy_index[x-1][y][1]) >= 1:
                                 break
-                            if x + 1 < gl.dimension:
-                                if gl.field[x + 1][y] != ' ':
-                                    break
-                            if y - 1 >= 0:
-                                if gl.field[x][y - 1] != ' ':
-                                    break  # Не проходит рядом с другими точками
-                        else:
-                            break
+                        if gl.field[x][y] == enemy_colour:
+                            if len(enemy_index[x][y][1]) == 1:
+                                gl.influence[x][y][2] += increment  # Распространяется сквозь слабые группы
+                            else:
+                                break
+                        elif gl.field[x][y] == ' ':
+                                gl.influence[x][y][2] += increment  # Идёт по свободным полям
+                        elif gl.field[x][y] == ally_colour:
+                            break # Не проходит сквозь союзные камни
                     else:
                         break
                 x = dot[0]
@@ -1348,25 +1419,21 @@ def update_influence(groups, increment):
                     x += 1
                     y += 1
                     if x < gl.dimension and y < gl.dimension:
-                        if gl.field[x][y-1] == enemy_colour and gl.field[x-1][y] == enemy_colour:
-                            if len(enemy_index[x][y-1][1]) >= 1 or len(enemy_index[x-1][y][1]) >= 1:
+                        if gl.field[x][y-1] == enemy_colour:
+                            if len(enemy_index[x][y-1][1]) >= 1:
                                 break  # Не распространяется сквозь камни врага
-                        if gl.field[x][y] != ally_colour:
-                            if gl.field[x][y] == enemy_colour:
-                                if len(enemy_index[x][y][1]) == 1:
-                                    gl.influence[x][y][3] += increment
-                            else:
-                                gl.influence[x][y][3] += increment
-                            if gl.field[x - 1][y] != ' ' and gl.field[x][y - 1] != ' ':
+                        if gl.field[x-1][y] == enemy_colour:
+                            if len(enemy_index[x-1][y][1]) >= 1:
                                 break
-                            if x + 1 < gl.dimension:
-                                if gl.field[x + 1][y] != ' ':
-                                    break
-                            if y + 1 < gl.dimension:
-                                if gl.field[x][y + 1] != ' ':
-                                    break   # Не проходит рядом с другими точками
-                        else:
-                            break
+                        if gl.field[x][y] == enemy_colour:
+                            if len(enemy_index[x][y][1]) == 1:
+                                gl.influence[x][y][3] += increment  # Распространяется сквозь слабые группы
+                            else:
+                                break
+                        elif gl.field[x][y] == ' ':
+                                gl.influence[x][y][3] += increment  # Идёт по свободным полям
+                        elif gl.field[x][y] == ally_colour:
+                            break # Не проходит сквозь союзные камни
                     else:
                         break
 

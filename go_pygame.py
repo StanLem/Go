@@ -84,11 +84,11 @@ if __name__ == '__main__':
                 if event.key == pg.K_a:
                     func.ai_move_algo2()
 
-                if event.key == pg.K_e:
+                elif event.key == pg.K_e:
                     func.end_game()
                     draw.all()
 
-                if event.key == pg.K_h:
+                elif event.key == pg.K_h:
                     draw.help()
 
                 elif event.key == pg.K_l:

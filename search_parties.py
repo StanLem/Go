@@ -106,14 +106,57 @@ def save_level(file, game_):
         file = file.split(';')
 
         try:
-            l1 = file[1].split('SZ[')[1]
+            l1 = file[1].split('BR[')[1]
             l1 = l1.split(']')[0]
-            save_file.write(game_ + '/' + l1 + '\n')
+            l2 = file[1].split('WR[')[1]
+            l2 = l2.split(']')[0]
+            save_file.write(game_ + '/' + l1 + ' '+ l2+ '\n')
         except IndexError:
             return False
         except ValueError:
             return False
 
+
+def save_move_count(file, game_):
+    if file != '':
+        print('Open party', file)
+        file = open(file, 'r', encoding='UTF-8')
+        save_file = open('save_move_count.txt', 'a', encoding='UTF-8')
+        try:
+            file = file.read()
+        except UnicodeDecodeError:
+            print('UnicodeDecodeError')
+            return False
+        file = file.replace('\n', '')
+        file = file.split(';')
+
+        try:
+            l = len(file) - 1
+            save_file.write(game_ + '/' + str(l) + '\n')
+        except IndexError:
+            return False
+        except ValueError:
+            return False
+
+
+def save_strange_format(file, game_):
+    if file != '':
+        print('Open party', file)
+        file = open(file, 'r', encoding='UTF-8')
+        save_file = open('save_strange_format.txt', 'a', encoding='UTF-8')
+        try:
+            file = file.read()
+        except UnicodeDecodeError:
+            print('UnicodeDecodeError')
+            return False
+
+        file = file.split('))')
+
+        if len(file) > 1:
+            save_file.write(game_ + '/N )) = ' + str(len(file)) + '\n')
+            return True
+        else:
+            return False
 
 def chose_dir():
     root = tk.Tk()
@@ -132,9 +175,7 @@ if mypath:
     onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
     # enable = True
     for game in onlyfiles:  # text
-        # save_chineese(mypath + '/' + game)
-        # save_rules(mypath + '/' + game, game)
-        save_size(mypath + '/' + game, game)
+        save_strange_format(mypath + '/' + game, game)
     print('data mined')
 else:
     print('data mine canceled')

@@ -4,13 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5bd88c9-4830-4101-b059-7deae398956a" name="Changes" comment="added show best moves on A button">
+    <list default="true" id="b5bd88c9-4830-4101-b059-7deae398956a" name="Changes" comment="auto ending the game on E button">
+      <change afterPath="$PROJECT_DIR$/numba_cpu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numba_cuda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GO_work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GO_work.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deck19 — копия.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deck19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deck19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deck9.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/draw.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/func.py" beforeDir="false" afterPath="$PROJECT_DIR$/func.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/globals.py" beforeDir="false" afterPath="$PROJECT_DIR$/globals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go_pygame.py" beforeDir="false" afterPath="$PROJECT_DIR$/go_pygame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/save.sgf" beforeDir="false" afterPath="$PROJECT_DIR$/save.sgf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_parties.py" beforeDir="false" afterPath="$PROJECT_DIR$/search_parties.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/temp.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wood.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +64,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Станислав/PycharmProjects/Fractal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Станислав/PycharmProjects/Fractal&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.go_pygame (2)">
+}</component>
+  <component name="RunManager" selected="Python.go_pygame (1)">
     <configuration name="go_pygame (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GO_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="go_pygame (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="go_pygame (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GO_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="search_parties (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GO_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,7 +168,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_parties.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="search_parties (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GO_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,7 +189,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Станислав\PycharmProjects\Go_work\test_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_parties.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.go_pygame (2)" />
         <item itemvalue="Python.go_pygame (1)" />
-        <item itemvalue="Python.test_code (1)" />
         <item itemvalue="Python.go_pygame" />
-        <item itemvalue="Python.test_code" />
+        <item itemvalue="Python.search_parties (2)" />
+        <item itemvalue="Python.go_pygame (3)" />
+        <item itemvalue="Python.search_parties (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674165500295</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="auto ending the game on E button">
+      <created>1674170549007</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674170549007</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -279,17 +299,7 @@
     <MESSAGE value="fixed color change when saving" />
     <MESSAGE value="added end_game()&#10;fixed count_territory" />
     <MESSAGE value="added show best moves on A button" />
-    <option name="LAST_COMMIT_MESSAGE" value="added show best moves on A button" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/func.py</url>
-          <line>273</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="auto ending the game on E button" />
+    <option name="LAST_COMMIT_MESSAGE" value="auto ending the game on E button" />
   </component>
 </project>
