@@ -10,6 +10,12 @@ def uninstall(package): # Запрашивает подтверждение y/n
     subprocess.check_call([sys.executable, "-m", "pip", "uninstall", package])
 
 
-install('tensorflow')
-install('tensorflow-gpu')
+install('pygame')
+install('numpy')
+#install('ctypes')
+#install('random')
+#install('copy')
+install('tkinter')
+#install('pygame')
+#install('pygame')
 

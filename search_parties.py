@@ -83,8 +83,11 @@ def save_size(file, game_):
         file = file.split(';')
 
         try:
-            size = file[1].split('SZ[')[1]
-            size = size.split(']')[0]
+            if '[t' in file or 't]' in file:
+                size = 20
+            else:
+                size = file[1].split('SZ[')[1]
+                size = size.split(']')[0]
             save_file.write(game_ + '/' + size + '\n')
         except IndexError:
             return False
@@ -158,6 +161,7 @@ def save_strange_format(file, game_):
         else:
             return False
 
+
 def chose_dir():
     root = tk.Tk()
     folder = fd.askdirectory(title="Выбрать папку",
@@ -175,7 +179,7 @@ if mypath:
     onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
     # enable = True
     for game in onlyfiles:  # text
-        save_strange_format(mypath + '/' + game, game)
+        save_size(mypath + '/' + game, game)
     print('data mined')
 else:
     print('data mine canceled')

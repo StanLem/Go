@@ -140,8 +140,8 @@ def eyes():  # Рисуем глаза
             gfxdraw.aacircle(gl.screen, gl.border + eye[0] * gl.net_wide, gl.border + eye[1] * gl.net_wide,
                              int(gl.net_wide * 0.1)-3, gl.LIGHT)
 
-            gfxdraw.filled_circle(gl.screen, gl.border + eye[0] * gl.net_wide, gl.border + eye[1] * gl.net_wide,
-                                  int(gl.net_wide * 0.1)-5, gl.BLACK)
+            #gfxdraw.filled_circle(gl.screen, gl.border + eye[0] * gl.net_wide,
+                                  #gl.border + eye[1] * gl.net_wide, int(gl.net_wide * 0.1)-5, gl.BLACK)
 
 
 def field():
@@ -241,9 +241,9 @@ def info():
                 info += ' Белые Пасуют'
             else:
                 info += ' Чёрные Пасуют'
-        info += ' Ч:' + str(gl.black_score) + '+' + str(gl.black_territory)
-        info += '   Б:' + str(gl.white_score) + '+' + str(gl.white_territory)
-        info += ' Т:' + str(gl.total_score)
+        info += ' B=' + str(gl.black_score) + '+' + str(gl.black_territory)
+        info += ' W=' + str(gl.white_score-gl.komi) + '+' + str(gl.white_territory) + '+' + str(gl.komi)
+        info += ' Т=' + str(gl.total_score)
 
     info = gl.text_font.render(info, True, gl.BLACK)
     gl.screen.blit(info, (x, y))

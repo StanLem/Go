@@ -12,6 +12,9 @@ if __name__ == '__main__':
     # Запуск движка
     pg.init()
     pg.font.init()
+    icon = pg.image.load('icon2.png')
+    pg.display.set_icon(icon)
+    pg.display.set_caption('Go game')
     gl.dame_font = pg.font.SysFont('Comic Sans MS', int(gl.net_wide/2))
     gl.text_font = pg.font.SysFont('Cascadia Code', int(gl.screen_scale/20))
     gl.influence_font = pg.font.Font("c:/windows/fonts/seguisym.ttf", int(gl.net_wide/2))

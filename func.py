@@ -530,39 +530,73 @@ def count_territory():  # Территорией считается простр
         for m in range(gl.dimension):
             gl.territory[n].append([0, 0])
 
-
     def set_territory(x, delta_x, y, delta_y, ally_color, foe_color):
         foe_index = gl.black_index if ally_color == 'W' else gl.white_index
-        dx = x + delta_x
-        dy = y + delta_y
-        if x+delta_x >= 0 and y+delta_y >= 0 and x+delta_x < gl.dimension and y+delta_y < gl.dimension:
-            restriction = False
-            if (gl.field[dx][dy] == ' ' \
-                or (gl.field[dx][dy] == foe_color
-                and len(foe_index[dx][dy][1]) == 1)):  # Пустое поле или слабая группа
-                    if gl.field[x+int(delta_x/2)][y] == foe_color and gl.field[x][y+int(delta_y/2)] == foe_color:
-                        # Запрет на распространение между двумя соседями
-                        if len(foe_index[x+int(delta_x/2)][y][1]) > 1 and len(foe_index[x][y+int(delta_y/2)][1]) > 1:
-                            restriction = True
-                    # Упростить условия
-                    if ((gl.field[x+int(delta_x/2)][y+int(delta_y/2)] != foe_color
-                        or (gl.field[x+int(delta_x/2)][y+int(delta_y/2)] == foe_color
-                        and len(foe_index[x+int(delta_x/2)][y+int(delta_y/2)][1]) == 1))\
-                        or (abs(delta_x) == 2 and abs(delta_y) == 2
-                        and (gl.field[x+int(delta_x/2)][y+int(delta_y/2)] != foe_color
-                        or (gl.field[x+int(delta_x/2)][y+int(delta_y/2)] == foe_color
-                        and len(foe_index[x+int(delta_x/2)][y+int(delta_y/2)][1]) == 1))
-                        and (gl.field[x+int(delta_x/2)][dy] != foe_color
-                        or (gl.field[x+int(delta_x/2)][dy] == foe_color
-                        and len(foe_index[x+int(delta_x/2)][dy][1]) == 1))
-                        and (gl.field[dx][y+int(delta_y/2)] != foe_color
-                        or (gl.field[dx][y+int(delta_y/2)] == foe_color
-                        and len(foe_index[dx][y+int(delta_y/2)][1]) == 1))))\
-                        and not restriction:  # Территория прерывается врагами
-                             if ally_color == 'B':
-                                gl.territory[dx][dy][0] = 1
-                             else:
-                                gl.territory[dx][dy][1] = 1
+        ally_index = gl.black_index if ally_color == 'B' else gl.white_index
+        X = x + delta_x
+        Y = y + delta_y
+        a = x+1 if delta_x > 0 else x-1
+        b = y+1 if delta_y > 0 else y-1
+        if X >= 0 and Y >= 0 and X < gl.dimension and Y < gl.dimension:
+            # Территория не выходит за границы поля
+            restriction = False  # Разрешаем разметку территории
+            weak_group = foe_index[X][Y] if gl.field[X][Y] == foe_color else ally_index[X][Y]
+            if gl.field[X][Y] == ' ' or len(weak_group[1]) == 1:  # Пустое поле или слабая группа
+                    if not restriction:
+                        # abs(delta_x + delta_y) == 1:
+                            #   -
+                            # - W -  Прилегающие клетки пусты
+                            #   -
+                        if abs(delta_x) == 2 and delta_y == 0:
+
+                            # - B W B -  Если нет соседа по x
+
+                            if gl.field[a][Y] == foe_color:
+                                restriction = True
+                        elif abs(delta_y) == 2 and delta_x == 0:
+                            # -
+                            # B
+                            # W   Если нет соседа по y
+                            # B
+                            # -
+                            if gl.field[X][b] == foe_color:
+                                restriction = True
+                        elif abs(delta_x) == 1 and abs(delta_y) == 1:
+                            # - B -
+                            # B W B  Нет двух перекрывающих соседей
+                            # - B -
+                            if gl.field[x][Y] == foe_color and gl.field[X][y] == foe_color:
+                                restriction = True
+                        elif abs(delta_x)+abs(delta_y) == 3 or abs(delta_x)+abs(delta_y) == 4:
+                            # - -   - -
+                            # - B   B -
+                            #     W       Нет перекрывающих соседей
+                            # - B   B -
+                            # - -   - -
+                            if gl.field[a][b] == foe_color:
+                                restriction = True
+                            # - -   - -
+                            # -   B   -
+                            #   B W B    Нет двух перекрывающих соседей
+                            # -   B   -
+                            # - -   - -
+                            if gl.field[x][b] == foe_color \
+                                    and gl.field[a][y] == foe_color:
+                                restriction = True
+                        if abs(delta_x)+abs(delta_y) == 4:
+                            # - B   B -
+                            # B       B
+                            #     W      Нет перекрывающих соседей
+                            # B       B
+                            # - B   B -
+                            if gl.field[X][b] == foe_color or gl.field[a][Y] == foe_color:
+                                restriction = True
+
+                    if not restriction:
+                        if ally_color == 'B':
+                            gl.territory[X][Y][0] = 1
+                        else:
+                            gl.territory[X][Y][1] = 1
 
     for x in range(gl.dimension):
         for y in range(gl.dimension):
@@ -571,10 +605,9 @@ def count_territory():  # Территорией считается простр
             group = gl.black_index[x][y] if ally_color == 'B' else gl.white_index[x][y]
             if group and len(group[1]) > 1:  # У слабых групп нет территории
                 if ally_color != ' ':
-                    for delta_x in range(-2, 3):
-                        for delta_y in range(-2, 3):
+                    for delta_x in [-2, -1, 0, 1, 2]:
+                        for delta_y in [-2, -1, 0, 1, 2]:
                             set_territory(x, delta_x, y, delta_y, ally_color, foe_color)
-
 
 
 def cut_history_tail():
@@ -643,6 +676,7 @@ def end_game():  # Доигрывание (пока не перестанут д
             pass_move()
     print('end', time.strftime('%H:%M:%S'))
 
+
 def auto_move():
     n = 5
     for i in range(n):
@@ -663,7 +697,7 @@ def field_to_tensor(field_):
     return tensor_
 
 
-def forward(): # Отобразить следующий ход партии
+def forward():  # Отобразить следующий ход партии
     if len(gl.move_list) > gl.move_count:
         gl.move_count += 1
         set_globals(gl.move_count - 1)
@@ -686,16 +720,26 @@ def load_party(filename):
             return False
         if '[t' in file:
             print('>19 field')
-            return False
+            gl.dimension = 20
         if 't]' in file:
             print('>19 field')
-            return False
-        file = file.replace('\n', '')
-        file = file.replace('AB[', ';AB[')  # AB обозначает фору
-        file = file.split(')')
-        file = file[0].split(';')
+            gl.dimension = 20
+        title = file.split(';')[1]
+        file = file.replace('(;'+title+';', '')  # Убираем заголовок
+        file = file.split(')')  # Отделяем основную партию от ответвлений
+        file = file[0].split(';')  # Разделение на ходы
+        try:
+            size = file[1].split('SZ[')[1]
+            size = size.split(']')[0]
+            size = int(size)
+            if size != gl.dimension:
+                if gl.dimension != 20:  # Размер изменён на 20 при наличии строки t
+                    gl.dimension = size
+        except IndexError:
+            print('SZ is empty')
 
         new_game()
+
         try:
             gl.komi = file[1].split('KM[')[1]
             gl.komi = gl.komi.split(']')[0]
@@ -708,34 +752,66 @@ def load_party(filename):
             gl.komi = 7.5
         gl.white_score = gl.komi
 
-        for word in file:
-            gl.auto_move = True
+        gl.auto_move = True  # При загрузке партии пропускаем часть вычислений для экономии времени
 
+        try:  # Расстановка камней форы чёрных
+            ab = title.split('AB')[1]  # AB обозначает установку чёрных камней AB[aa][ab][ba]
+            ab = ab.split('\n')[0]
+            n = 0
+            while ab[n] == '[':
+                if gl.turn_colour != 'B':
+                    pass_move()
+                x = gl.SGF_TO_N[ab[n+1]]
+                y = gl.SGF_TO_N[ab[n+2]]
+                print(gl.move_count, gl.turn_colour, gl.N_TO_FIELD[x]+str(y+1))
+                move(x, y)
+                n += 4
+                if len(ab) <= n:
+                    break
+        except IndexError:
+            print('no handicap for black')
+        # Расстановка камней форы белых
+        try:
+            aw = title.split('AW')[1]  # AW обозначает установку белых камней AW[aa][ab][ba]
+            aw = aw.split('\n')[0]
+            n = 0
+            while aw[n] == '[':
+                if gl.turn_colour != 'W':
+                    pass_move()
+                x = gl.SGF_TO_N[aw[n+1]]
+                y = gl.SGF_TO_N[aw[n+2]]
+                print(gl.move_count, gl.turn_colour, gl.N_TO_FIELD[x]+str(y+1))
+                move(x, y)
+                n += 4
+                if len(aw) <= n:
+                    break
+        except IndexError:
+            print('no handicap for white')
+
+        for word in file:
             if word[0] == 'B' or word[0] == 'W':
                 x = gl.SGF_TO_N[word[2]]  # вылет при загрузке первой партии alpha zero 40 vs self (поле 20 на 20)
                 y = gl.SGF_TO_N[word[3]]
                 if word[0] == gl.turn_colour:
-                    print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
+                    print(gl.move_count, gl.turn_colour, gl.N_TO_FIELD[x]+str(y+1),
+                          'B='+str(gl.black_score), 'W='+str(gl.white_score))
                     move(x, y)
                 else:
-                    print(gl.move_count, gl.turn_colour,'pass')
+                    print(gl.move_count, gl.turn_colour, 'pass')
                     pass_move()
                     print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
                     move(x, y)
-            elif word[0] == 'A' and word[1] == 'B':  # Расстановка камней форы
-                x = gl.SGF_TO_N[word[3]]
-                y = gl.SGF_TO_N[word[4]]
-                print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
-                move(x, y)
-                change_colour()
-                x = gl.SGF_TO_N[word[7]]
-                y = gl.SGF_TO_N[word[8]]
-                print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
-                move(x, y)
             else:
                 print(filename, word)
 
         gl.auto_move = False
+        backward()
+        while gl.move_list[-1] == 'pass':
+            backward()
+            del gl.move_list[-1]
+        x = gl.move_list[-1][0]
+        y = gl.move_list[-1][1]
+        move(x, y)
         return True
     else:
         print('file choose canceled')
@@ -1003,7 +1079,7 @@ def new_game():
 def pass_move():
 
     if not gl.end_game:
-        print('pass', gl.turn_colour)
+        # print('pass', gl.turn_colour)
         cut_history_tail()
         set_globals(gl.move_count-1)
 
@@ -1169,7 +1245,8 @@ def rotate_move(): # Повернуть позицию на 90° по часов
 
 def save_game():
     with open('save.sgf', 'w', encoding='UTF-8') as f:
-        f.write('(;PB[player1]\nPW[player2]\nKM['+str(gl.komi)+']\nDT['+time.strftime('%Y-%m-%d')+']\nRU['+gl.rules+']\n')
+        f.write('(;SZ['+str(gl.dimension)+']\nPB[player1]\nPW[player2]\nKM['+str(gl.komi)+']\nDT['+
+                time.strftime('%Y-%m-%d')+']\nRU['+gl.rules+']\n')
         color = 'B'
         for move in gl.move_list:
             x = move[0]
