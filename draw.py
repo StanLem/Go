@@ -242,7 +242,7 @@ def info():
             else:
                 info += ' Чёрные Пасуют'
         info += ' B=' + str(gl.black_score) + '+' + str(gl.black_territory)
-        info += ' W=' + str(gl.white_score-gl.komi) + '+' + str(gl.white_territory) + '+' + str(gl.komi)
+        info += ' W=' + str(int(gl.white_score-gl.komi)) + '+' + str(gl.white_territory) + '+' + str(gl.komi)
         info += ' Т=' + str(gl.total_score)
 
     info = gl.text_font.render(info, True, gl.BLACK)

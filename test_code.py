@@ -14,15 +14,15 @@ print(time.localtime())
 print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()))
 print(time.strftime('%Y-%m-%d'))'''
 
-from numba import jit
+'''from numba import jit
 from numba import cuda
 import numpy as np
-from timeit import default_timer as timer
+from timeit import default_timer as timer'''
 # To run on CPU
 def func(x):
     return x+1
 # To run on GPU
-@jit
+
 def func2(x):
     return x+1
 if __name__=="__main__":
@@ -39,8 +39,4 @@ if __name__=="__main__":
     print("with GPU:", timer()-start)'''
 
 
-    n = -5
-    for i in range(0, n):
-        print(i)
-    for i in range(n):
-        print(i)
+    print(int(0.6))

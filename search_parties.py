@@ -162,6 +162,96 @@ def save_strange_format(file, game_):
             return False
 
 
+def save_all(filename):
+    if filename != '':
+        print('Open party', filename)
+        game = filename.split('/')[-1]
+        file = open(filename, 'r', encoding='UTF-8')
+        save_file = open('save_all.txt', 'a', encoding='UTF-8')
+        dimension = 19
+        black_level = 0
+        white_level = 0
+        komi = 0
+        wins = 0
+        color = ''
+        try:
+            file = file.read()
+        except UnicodeDecodeError:
+            print('UnicodeDecodeError')
+            return False
+        if len(file) == 0:
+            print('file is empty')
+            return False
+        # Размер поля 19
+        if '[t' in file:
+            print('>19 field')
+            return False
+        if 't]' in file:
+            print('>19 field')
+            return False
+        title = file.split(';')[1]
+        file = file.replace('(;'+title+';', '')  # Убираем заголовок
+        file = file.split(')')  # Отделяем основную партию от ответвлений
+        file = file[0].split(';')  # Разделение на ходы
+        number_of_moves = len(file)
+
+        try:
+            wins = title.split('RE[')[1]
+            wins = wins.split(']')[0]
+            color = wins.split('+')[0]
+            wins = int(wins.split('+')[1])
+            if wins == 0:
+                return False
+        except IndexError:
+            print('WIN is empty')
+            return False
+        except ValueError:
+            print('WIN is invalid')
+            return False
+
+        try:
+            size = title.split('SZ[')[1]
+            size = size.split(']')[0]
+            size = int(size)
+            if size != dimension:
+                if dimension != 20:  # Размер изменён на 20 при наличии строки t
+                    dimension = size
+        except IndexError:
+            print('SZ is empty')
+
+        try:
+            black_level = title.split('BR[')[1]
+            black_level = int(black_level.split(']')[0].replace('p','').replace('*',''))
+            white_level = title.split('WR[')[1]
+            white_level = int(white_level.split(']')[0].replace('p','').replace('*',''))
+        except IndexError:
+            print('LVL is empty')
+        except ValueError:
+            print('LVL is incorrect')
+
+        try:
+            komi = title.split('KM[')[1]
+            komi = komi.split(']')[0]
+            komi = float(komi)  # Если не указано коми, устанавливаем значение по умолчанию
+        except IndexError:
+            print('komi default')
+            return False
+        except ValueError:
+            print('komi default')
+            return False
+        white_score = komi
+
+        if dimension == 19\
+            and komi != 0 \
+            and wins != 0 \
+            and number_of_moves > 200:
+            '''and black_level > 3\
+            and white_level > 3\''''
+            save_file.write('moves=' + str(number_of_moves) + ' B=' + str(black_level) + ' W='
+                            + str(white_level) + ' wins=' + color + ' points=' + str(wins) + ' komi='
+                            + str(komi) + ' ' + game + '\n')
+
+
 def chose_dir():
     root = tk.Tk()
     folder = fd.askdirectory(title="Выбрать папку",
@@ -179,7 +269,7 @@ if mypath:
     onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
     # enable = True
     for game in onlyfiles:  # text
-        save_size(mypath + '/' + game, game)
+        save_all(mypath + '/' + game)
     print('data mined')
 else:
     print('data mine canceled')

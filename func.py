@@ -725,11 +725,12 @@ def load_party(filename):
             print('>19 field')
             gl.dimension = 20
         title = file.split(';')[1]
-        file = file.replace('(;'+title+';', '')  # Убираем заголовок
+        file = file.replace('(;'+title+';', '').replace('\n', '')   # Убираем заголовок и переносы строк
+        title = title.replace('\n', '')  # Переносы строк - зло
         file = file.split(')')  # Отделяем основную партию от ответвлений
         file = file[0].split(';')  # Разделение на ходы
         try:
-            size = file[1].split('SZ[')[1]
+            size = title.split('SZ[')[1]
             size = size.split(']')[0]
             size = int(size)
             if size != gl.dimension:
@@ -741,7 +742,7 @@ def load_party(filename):
         new_game()
 
         try:
-            gl.komi = file[1].split('KM[')[1]
+            gl.komi = title.split('KM[')[1]
             gl.komi = gl.komi.split(']')[0]
             gl.komi = float(gl.komi)  # Если не указано коми, устанавливаем значение по умолчанию
         except IndexError:
@@ -799,7 +800,8 @@ def load_party(filename):
                 else:
                     print(gl.move_count, gl.turn_colour, 'pass')
                     pass_move()
-                    print(gl.move_count, gl.turn_colour, '('+str(x)+','+str(y)+')')
+                    print(gl.move_count, gl.turn_colour, gl.N_TO_FIELD[x]+str(y+1),
+                          'B='+str(gl.black_score), 'W='+str(gl.white_score))
                     move(x, y)
             else:
                 print(filename, word)
@@ -812,6 +814,7 @@ def load_party(filename):
         x = gl.move_list[-1][0]
         y = gl.move_list[-1][1]
         move(x, y)
+        print(title)
         return True
     else:
         print('file choose canceled')
